@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr"> 
+	<head>
+		<!-- Encodage de la page -->
+		<meta charset="utf-8">
+		<!-- Titre de la page -->
+		<title>GrammOrtho – Accueil</title>
+		<meta name="description" content="GrammOrtho – Accueil">
+		<!-- Lien vers la feuille de style CSS -->
+		<link rel="stylesheet" href="style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+  	</head>
+	<body>   
+		<!-- Icône supérieure -->
+		<link rel="icon" type="images/jpg" href="images/banniere.jpg">
+		<!-- Bannière supérieure -->
+		<img class="banniere" id="banniere1" alt="bannière" src="images/banniere.jpg"> 
+		<p id="bienvenue">Bienvenue, Utilisateur !</p>
+		<div id="btn_menu">
+			<img id="img_profil" alt="bouton profil" src="images/user.png" onclick="window.location.href='profil.html'"> 
+			<img id="img_accueil" alt="bouton accueil" src="images/home.png" onclick="window.location.href='accueil.html'">
+			<img id="img_deconnexion" alt="bouton deconnexion" src="images/exit.png" onclick="window.location.href='pageconnexion.html'">
+		</div>
+		<!--Div GrammOrtho-->
+		<div id="titre">
+			<p id="titre_princ">GrammOrtho</p>
+			<p id="sous_titre">Orthographe grammaticale</p>
+		</div>
+		<!--Divs modules-->
+		<div class="module" id="module1">
+			<p class="numMod">Module 1</p>
+			<p class="nomMod">noms et adjectifs</p>
+		</div>
+		<div class="module" id="module2">
+			<p class="numMod">Module 2</p>
+			<p class="nomMod">catégories de mots</p>
+		</div>
+		<div class="module" id="module3">
+			<p class="numMod">Module 3</p>
+			<p class="nomMod">présent de l'indicatif</p>
+		</div>
+		<div class="module" id="module4">
+			<p class="numMod">Module 4</p>
+			<p class="nomMod">pronominalisation</p>
+		</div>
+		<div class="module" id="module5">
+			<p class="numMod">Module 5</p>
+			<p class="nomMod">temps simples</p>
+		</div>
+		<div class="module" id="module6">
+			<p class="numMod">Module 6</p>
+			<p class="nomMod">participes passés</p>
+		</div>
+		<div class="module" id="module7">
+			<p class="numMod">Module 7</p>
+			<p class="nomMod">participes passés et adjectifs</p>
+		</div>
+		<div class="module" id="module8">
+			<p class="numMod">Module 8</p>
+			<p class="nomMod">homophones grammaticaux</p>
+		</div>
+		
+		<!--Bannière inférieure-->
+		<img class="banniere" id="banniere2" alt="bannière" src="images/banniere.jpg"/>
+		<p><a id="mentions_acc" href="https://uneeducationpourdemain.com/sed/php/sed_mentions_legales.php">Mentions légales</a></p>
+		<p><a id="conditions_acc" href="https://www.uneeducationpourdemain.org/didacticiels-en-ligne-sedortho-du-nouveau/">Conditions d'utilisation</a></p>		   								
+	</body>
+	<script>
+		// Appliquer le thème nuit 
+		function twRequeteVariable(sVariable) { // http://www.trucsweb.com/tutoriels/javascript/tw303/
+			// Éliminer le "?"
+			var sReq = window.location.search.substring(1);
+			// Matrice de la requête
+			var aReq = sReq.split("&");
+			// Boucle les variables
+			for (var i=0;i<aReq.length;i++) {
+				// Matrice de la variables / valeur
+				var aVar = aReq[i].split("=");
+				// Retourne la valeur si la variable demandée = la variable de la boucle
+				if(aVar[0] == sVariable){return aVar[1];}
+			}
+			// Aucune variable de trouvée.
+			return(false);
+		};
+		if (twRequeteVariable("theme")=="nuit") {
+			document.body.classList.add("themeNuit");
+			document.getElementById('img_accueil').setAttribute('onclick',"window.location.href='accueil.html?theme=nuit'");
+			document.getElementById('img_profil').setAttribute('onclick',"window.location.href='profil.html?theme=nuit'");
+		};
+	</script>
+</html>

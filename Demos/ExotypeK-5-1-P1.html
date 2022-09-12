@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--Exercice type K (Module 5.1.P1) -->
+<html>
+    <head>
+        <!-- Encodage de la page -->
+        <meta charset="utf-8">
+        <!-- Titre de la page -->
+        <title>Démo exo K (Module 5.1.P1)</title>
+        <meta name="description" content="Démo exo K (Module 5.1.P1)">
+        <!-- Lien vers la feuille de style CSS -->
+        <link rel="stylesheet" href="style1.css">
+        <!-- Icône -->
+        <link rel="icon" type="images/jpg" href="images/banniere.jpg">
+        <!-- Chargement de JQuery -->
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+        <script src="scripts/jquery-3.5.1.min.js"></script>
+    </head>
+    <body>
+        <!--Boutons menu-->
+        <div class="boutons_exos3">
+            <img id="btn_reecouter">
+            <img id="btn_retour">
+            <img id="btn_consigne">
+        </div>
+        <!--Audio player consigne-->
+        <audio hidden controls id="consigneK" class="playerConsignes"></audio>
+        <!--Div avec l'image de la coche verte de bonne réponse-->
+        <div id="cocheVerte" hidden>
+            <img class="imgRep" id="imgCocheVerte"/>
+        </div>
+        <!--Div avec l'image de la croix rouge de mauvaise réponse-->
+        <div id="croixRouge" hidden>
+            <img class="imgRep" id="imgCroixRouge"/>
+        </div>
+        <!--Audio player phrase de l'exercice-->
+        <audio hidden controls id="audioDonneesK" class="audioDonnees"></audio>
+        <!--Div avec l'input du verbe à saisir--> 
+        <div id="reponseK" class="reponseDEF">
+            <p><span id="avant"></span><input id="verbeK" class="motDEF" type="text" size="10" onkeyup="transformInput('verbeK')"><span id="apres"></span></p> <!--fonction pour forcer la saisie en minuscule, pour éviter la première lettre en majuscule automatique du clavier des smartphones-->
+            <p id="paragValiderK" class="paragValiderDEF"><img id="validerK" class="validerDEFK"/></p>
+        </div>
+        <!--Divs fixes avec les rectangles des catégories-->
+        <div class="rectCat" id="rectPron" data-cat="6"></div>
+        <div class="rectCat" id="rectInterj" data-cat="11"></div>
+        <div class="rectCat" id="rectNom" data-cat="1"></div>
+        <div class="rectCat" id="rectAdj" data-cat="3"></div>
+        <div class="rectCat" id="rectDet" data-cat="2"></div>
+        <div class="rectCat" id="rectDetPrep" data-cat="5"></div>
+        <div class="rectCat" id="rectPrep" data-cat="4"></div>
+        <div class="rectCat" id="rectAdv" data-cat="8"></div>
+        <div class="rectCat" id="rectPronAdv" data-cat="9"></div>
+        <div class="rectCat" id="rectVerb" data-cat="7"></div>
+        <div class="rectCat" id="rectVerbZoomK" data-cat="7" hidden>
+            <div id="sousRectVerbK1"></div>
+            <div id="sousRectVerbK2">
+                <p class="pRectK" id="K01" data-col="0" data-ligne="1">ais</p>
+                <p class="pRectK" id="K02" data-col="0" data-ligne="2">ais</p>
+                <p class="pRectK" id="K03" data-col="0" data-ligne="3">ait</p>
+                <p class="pRectK" id="K04" data-col="0" data-ligne="4">ions</p>
+                <p class="pRectK" id="K05" data-col="0" data-ligne="5">iez</p>
+                <p class="pRectK" id="K06" data-col="0" data-ligne="6">aient</p>
+            </div>
+            <div id="sousRectVerbK3">
+                <div id="sousRectVerbK3-1">
+                    <p class="pRectK" id="K11" data-col="1" data-ligne="1">e</p>
+                    <p class="pRectK" id="K12" data-col="1" data-ligne="2">es</p>
+                    <p class="pRectK" id="K13" data-col="1" data-ligne="3">e</p>
+                    <p class="pRectK" id="K14" data-col="1" data-ligne="4">ons</p>
+                    <p class="pRectK" id="K15" data-col="1" data-ligne="5">ez</p>
+                    <p class="pRectK" id="K16" data-col="1" data-ligne="6">ent</p>
+                </div>
+                <div id="sousRectVerbK3-2">
+                    <p class="pRectK" id="K21" data-col="2" data-ligne="1">s</p>
+                    <p class="pRectK" id="K22" data-col="2" data-ligne="2">s</p>
+                    <p class="pRectK" id="K23" data-col="2" data-ligne="3">t</p>
+                    <p class="pRectK" id="K24" data-col="2" data-ligne="4">ons</p>
+                    <p class="pRectK" id="K25" data-col="2" data-ligne="5">ez</p>
+                    <p class="pRectK" id="K26" data-col="2" data-ligne="6">ent</p>
+                </div>
+                <div id="sousRectVerbK3-3">
+                    <p class="pRectK" id="K31" data-col="3" data-ligne="1">ts</p>
+                    <p class="pRectK" id="K32" data-col="3" data-ligne="2">ts</p>
+                    <p class="pRectK" id="K33" data-col="3" data-ligne="3">t</p>
+                    <p class="pRectK" id="K34" data-col="3" data-ligne="4">ons</p>
+                    <p class="pRectK" id="K35" data-col="3" data-ligne="5">ez</p>
+                    <p class="pRectK" id="K36" data-col="3" data-ligne="6">ent</p>
+                </div>
+                <div id="sousRectVerbK3-4">
+                    <p class="pRectK" id="K41" data-col="4" data-ligne="1">ds</p>
+                    <p class="pRectK" id="K42" data-col="4" data-ligne="2">ds</p>
+                    <p class="pRectK" id="K43" data-col="4" data-ligne="3">d</p>
+                    <p class="pRectK" id="K44" data-col="4" data-ligne="4">ons</p>
+                    <p class="pRectK" id="K45" data-col="4" data-ligne="5">ez</p>
+                    <p class="pRectK" id="K46" data-col="4" data-ligne="6">ent</p>
+                </div>
+                <div id="sousRectVerbK3-5">
+                    <p class="pRectK" id="K51" data-col="5" data-ligne="1">x</p>
+                    <p class="pRectK" id="K52" data-col="5" data-ligne="2">x</p>
+                    <p class="pRectK" id="K53" data-col="5" data-ligne="3">t</p>
+                    <p class="pRectK" id="K54" data-col="5" data-ligne="4">ons</p>
+                    <p class="pRectK" id="K55" data-col="5" data-ligne="5">ez</p>
+                    <p class="pRectK" id="K56" data-col="5" data-ligne="6">ent</p>
+                </div>
+                <div id="sousRectVerbK3-6">
+                    <p class="pRectK" id="K67891" data-col="6789" data-ligne="1">····</p>
+                    <p class="pRectK" id="K67892" data-col="6789" data-ligne="2">&emsp; </p>
+                    <p class="pRectK" id="K67893" data-col="6789" data-ligne="3">&emsp; </p>
+                    <p class="pRectK" id="K67894" data-col="6789" data-ligne="4">&emsp; </p>
+                    <p class="pRectK" id="K67895" data-col="6789" data-ligne="5">&emsp; </p>
+                    <p class="pRectK" id="K67896" data-col="6789" data-ligne="6">&emsp; </p>
+                </div>
+            </div>
+            <div id="sousRectVerbK4">
+                <p class="pRectK" id="K101" data-col="10" data-ligne="1">rai</p>
+                <p class="pRectK" id="K102" data-col="10" data-ligne="2">ras</p>
+                <p class="pRectK" id="K103" data-col="10" data-ligne="3">ra</p>
+                <p class="pRectK" id="K104" data-col="10" data-ligne="4">rons</p>
+                <p class="pRectK" id="K105" data-col="10" data-ligne="5">rez</p>
+                <p class="pRectK" id="K106" data-col="10" data-ligne="6">ront</p>
+            </div>
+        </div>
+        <div class="rectCat" id="rectConjCoord" data-cat="10"></div>
+        <div class="rectCat" id="rectConjSub" data-cat=""></div>
+        <!-- Liens vers les scripts -->
+        <script src="scripts/general.js"></script>
+        <script src="scripts/demo-K.js"></script>
+    </body>
+</html> 

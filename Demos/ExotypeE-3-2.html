@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--Exercice type E (Module 3.2.1) -->
+<html>
+    <head>
+        <!-- Encodage de la page -->
+        <meta charset="utf-8">
+        <!-- Titre de la page -->
+        <title>Démo exo E (Module 3.2.1)</title>
+        <meta name="description" content="Démo exo E (Module 3.2.1)">
+        <!-- Lien vers la feuille de style CSS -->
+        <link rel="stylesheet" href="style1.css">
+        <!-- Icône -->
+        <link rel="icon" type="images/jpg" href="images/banniere.jpg">
+        <!-- Chargement de JQuery -->
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+        <script src="scripts/jquery-3.5.1.min.js"></script>
+    </head>
+    <body>
+        <!--Boutons menu-->
+        <div class="boutons_exos3">
+            <img id="btn_reecouter">
+            <img id="btn_retour">
+            <img id="btn_consigne">
+        </div>
+        <!--Audio player consigne-->
+        <audio hidden controls id="consigneE" class="playerConsignes"></audio>
+        <!--Div avec l'image de la coche verte de bonne réponse-->
+        <div id="cocheVerte" hidden>
+            <img class="imgRep" id="imgCocheVerte"/>
+        </div>
+        <!--Div avec l'image de la croix rouge de mauvaise réponse-->
+        <div id="croixRouge" hidden>
+            <img class="imgRep" id="imgCroixRouge"/>
+        </div>
+        <!--Audio player phrase de l'exercice-->
+        <audio hidden controls id="audioDonneesE" class="audioDonnees"></audio>
+        <!--Div avec l'input du verbe à saisir--> 
+        <div id="reponseE" class="reponseDEF">
+            <p><span id="avant"></span><input id="verbeE" class="motDEF" type="text" size="10" onkeyup="transformInput('verbeE')"><span id="apres"></span></p> <!--fonction pour forcer la saisie en minuscule, pour éviter la première lettre en majuscule automatique du clavier des smartphones-->
+            <p id="paragValiderE" class="paragValiderDEF"><img id="validerE" class="validerDEFK" /></p>
+        </div>
+        <!--Divs fixes des terminaisons-->
+        <div id="flexTerminaisonsE"></div>
+        <!-- Liens vers les scripts -->
+        <script src="scripts/general.js"></script>
+        <script src="scripts/demo-E.js"></script>
+    </body>
+</html> 

@@ -1,0 +1,856 @@
+Module	Sous_Module	Type	Exercice	Série	Données	Catégorie	Afficher à la fin	Terme;Indice	Phrase Correcte	Réponse	Fichier Audio
+1	1	Classique	0	1	des;maisons;.	2;1;0					demod01.mp3
+1	1	Classique	0	2	une;ville;.	2;1;0					demod02.mp3
+1	1	Classique	0	3	une;ville;moderne;.	2;1;3;0					demod03.mp3
+1	1	Classique	0	4	une;grande;ville;.	2;3;1;0					demod04.mp3
+1	1	Classique	0	5	des;hommes;célibataires;.	2;1;3;0					demod5.mp3
+1	1	Classique	0	6	de;jeunes;hommes;.	2;3;1;0					demod06.mp3
+1	1	Classique	1	1	une;maison;.	2;1;0					s01d01.mp3
+1	1	Classique	1	2	une;maison;neuve;.	2;1;3;0					s01d02.mp3
+1	1	Classique	1	3	une;petite;maison;.	2;3;1;0					s01d03.mp3
+1	1	Classique	1	4	une;belle;maison;neuve;.	2;3;1;3;0					s01d04.mp3
+1	1	Classique	1	5	une;maison;moderne;agréable;.	2;1;3;3;0					s01d05.mp3
+1	1	Classique	1	6	un;livre;.	2;1;0					s01d06.mp3
+1	1	Classique	1	7	un;livre;cher;.	2;1;3;0					s01d07.mp3
+1	1	Classique	1	8	un;nouveau;livre;.	2;3;1;0					s01d08.mp3
+1	1	Classique	1	9	un;bon;livre;facile;.	2;3;1;3;0					s01d09.mp3
+1	1	Classique	1	10	un;joli;petit;livre;intéressant.	2;3;3;1;3;0					s01d10.mp3
+1	1	Classique	1	11	des;fruits;mûrs;.	2;1;3;0					s01d11.mp3
+1	1	Classique	1	12	des;murs;blancs;.	2;1;3;0					s01d12.mp3
+1	1	Classique	1	13	des;murs;blancs;lessivés;.	2;1;3;3;0					s01d13.mp3
+1	1	Classique	1	14	une;femme;.	2;1;0					s01d14.mp3
+1	1	Classique	1	15	une;grande;jeune;femme;brune;.	2;3;3;1;3;0					s01d15.mp3
+1	1	Classique	2	1	un;arbre;.	2;1;0					s02d01.mp3
+1	1	Classique	2	2	un;gros;arbre;.	2;3;1;0					s02d02.mp3
+1	1	Classique	2	3	un;arbre;jeune;.	2;1;3;0					s02d03.mp3
+1	1	Classique	2	4	un;jeune;arbre;vert;.	2;3;1;3;0					s02d04.mp3
+1	1	Classique	2	5	un;verre;plein;.	2;1;3;0					s02d05.mp3
+1	1	Classique	2	6	un;petit;verre;vide;.	2;3;1;3;0					s02d06.mp3
+1	1	Classique	2	7	une;grande;cour;vide;.	2;3;1;3;0					s02d07.mp3
+1	1	Classique	2	8	des;cheveux;courts;.	2;1;3;0					s02d08.mp3
+1	1	Classique	2	9	des;cheveux;sales;.	2;1;3;0					s02d09.mp3
+1	1	Classique	2	10	une;belle;salle;carrée;.	2;3;1;3;0					s02d10.mp3
+1	1	Classique	2	11	de;longs;cheveux;sales;.	2;3;1;3;0					s02d11.mp3
+1	1	Classique	2	12	deux;grands;yeux;bleus;.	2;3;1;3;0					s02d12.mp3
+1	1	Classique	2	13	cinq;grands;bâtiments;modernes;.	2;3;1;3;0					s02d13.mp3
+1	1	Classique	2	14	un;vieil;homme;fier;.	2;3;1;3;0					s02d14.mp3
+1	1	Classique	2	15	de;beaux;jeunes;hommes;libres;.	2;3;3;1;3;0					s02d15.mp3
+1	1	Classique	3	1	un;pull;gris;.	2;1;3;0					s03d01.mp3
+1	1	Classique	3	2	un;gros;pull;noir;.	2;3;1;3;0					s03d02.mp3
+1	1	Classique	3	3	de;beaux;pantalons;marron;.	2;3;1;3;0					s03d03.mp3
+1	1	Classique	3	4	des;marrons;chauds;.	2;1;3;0					s03d04.mp3
+1	1	Classique	3	5	des;mûres;sauvages;.	2;1;3;0					s03d05.mp3
+1	1	Classique	3	6	quelques;grosses;cerises;mûres;.	2;3;1;3;0					s03d06.mp3
+1	1	Classique	3	7	quelques;cerises;rouges;.	2;1;3;0					s03d07.mp3
+1	1	Classique	3	8	un;rouge;vif;.	2;1;3;0					s03d08.mp3
+1	1	Classique	3	9	plusieurs;couleurs;vives;.	2;1;3;0					s03d09.mp3
+1	1	Classique	3	10	quelle;belle;couleur;.	2;3;1;0					s03d10.mp3
+1	1	Classique	3	11	des;couleurs;lumineuses;.	2;1;3;0					s03d11.mp3
+1	1	Classique	3	12	une;nouvelle;idée;lumineuse;.	2;3;1;3;0					s03d12.mp3
+1	1	Classique	3	13	une;bonne;nouvelle;.	2;3;1;0					s03d13.mp3
+1	1	Classique	3	14	un;nouvel;apprenti;sympathique;.	2;3;1;3;0					s03d14.mp3
+1	1	Classique	3	15	de;nombreux;nouveaux;voisins;sympathiques;.	2;3;3;1;3;0					s03d15.mp3
+1	1	Classique	4	1	un;téléphone;fixe;.	2;1;3;0					s04d01.mp3
+1	1	Classique	4	2	un;nouveau;téléphone;.	2;3;1;0					s04d02.mp3
+1	1	Classique	4	3	une;magnifique;moto;rouge;.	2;3;1;3;0					s04d03.mp3
+1	1	Classique	4	4	un;puissant;camion;utilitaire;.	2;3;1;3;0					s04d04.mp3
+1	1	Classique	4	5	de;puissants;radiateurs;électriques;.	2;3;1;3;0					s04d05.mp3
+1	1	Classique	4	6	des;radiateurs;électriques;puissants;.	2;1;3;3;0					s04d06.mp3
+1	1	Classique	4	7	plusieurs;scies;portatives;.	2;1;3;0					s04d07.mp3
+1	1	Classique	4	8	quelques;vieux;clous;rouillés;.	2;3;1;3;0					s04d08.mp3
+1	1	Classique	4	9	trois;vélos;récents;.	2;1;3;0					s04d09.mp3
+1	1	Classique	4	10	un;petit;cahier;jaune;.	2;3;1;3;0					s04d10.mp3
+1	1	Classique	4	11	un;jaune;éclatant;.	2;1;3;0					s04d11.mp3
+1	1	Classique	4	12	un;feu;orange;clignotant;.	2;1;3;3;0					s04d12.mp3
+1	1	Classique	4	13	un;ordinateur;portable;rapide;.	2;1;3;3;0					s04d13.mp3
+1	1	Classique	4	14	deux;nouveaux;vélos;.	2;3;1;0					s04d14.mp3
+1	1	Classique	4	15	un;clignotant;gauche;défectueux;.	2;1;3;3;0					s04d15.mp3
+1	1	Classique	5	1	une;fête;annuelle;.	2;1;3;0					s05d01.mp3
+1	1	Classique	5	2	une;année;pluvieuse;.	2;1;3;0					s05d02.mp3
+1	1	Classique	5	3	une;pluie;fine;verglaçante;.	2;1;3;3;0					s05d03.mp3
+1	1	Classique	5	4	une;fine;poussière;grise;.	2;3;1;3;0					s05d04.mp3
+1	1	Classique	5	5	une;poussière;légère;.	2;1;3;0					s05d05.mp3
+1	1	Classique	5	6	un;léger;verglas;matinal;.	2;3;1;3;0					s05d06.mp3
+1	1	Classique	5	7	un;matin;ensoleillé;.	2;1;3;0					s05d07.mp3
+1	1	Classique	5	8	un;soleil;voilé;.	2;1;3;0					s05d08.mp3
+1	1	Classique	5	9	de;grandes;voiles;colorées;.	2;3;1;3;0					s05d09.mp3
+1	1	Classique	5	10	des;couleurs;chaudes;.	2;1;3;0					s05d10.mp3
+1	1	Classique	5	11	d';épais;vêtements;chauds;.	2;3;1;3;0					s05d11.mp3
+1	1	Classique	5	12	une;forte;chaleur;nocturne;.	2;3;1;3;0					s05d12.mp3
+1	1	Classique	5	13	des;nuits;agréables;.	2;1;3;0					s05d13.mp3
+1	1	Classique	5	14	de;nombreux;jours;reposants;.	2;3;1;3;0					s05d14.mp3
+1	1	Classique	5	15	plusieurs;belles;matinées;agréables;.	2;3;1;3;0					s05d15.mp3
+1	1	Classique	6	1	un;sport;individuel;.	2;1;3;0					s06d01.mp3
+1	1	Classique	6	2	de;nouveaux;sports;.	2;3;1;0					s06d02.mp3
+1	1	Classique	6	3	un;sport;collectif;violent;.	2;1;3;3;0					s06d03.mp3
+1	1	Classique	6	4	un;accident;grave;.	2;1;3;0					s06d04.mp3
+1	1	Classique	6	5	des;voix;graves;.	2;1;3;0					s06d05.mp3
+1	1	Classique	6	6	une;voiture;accidentée;.	2;1;3;0					s06d06.mp3
+1	1	Classique	6	7	des;douleurs;récentes;fortes;.	2;1;3;3;0					s06d07.mp3
+1	1	Classique	6	8	une;prestation;sociale;avantageuse;.	2;1;3;3;0					s06d08.mp3
+1	1	Classique	6	9	des;avantages;sociaux;importants;.	2;1;3;3;0					s06d09.mp3
+1	1	Classique	6	10	un;bon;restaurant;économique;.	2;3;1;3;0					s06d10.mp3
+1	1	Classique	6	11	une;économie;locale;forte;.	2;1;3;3;0					s06d11.mp3
+1	1	Classique	6	12	un;nouveau;local;commercial;.	2;3;1;3;0					s06d12.mp3
+1	1	Classique	6	13	des;histoires;passionnantes;.	2;1;3;0					s06d13.mp3
+1	1	Classique	6	14	une;petite;école;publique;.	2;3;1;3;0					s06d14.mp3
+1	1	Classique	6	15	une;publicité;mensongère;.	2;1;3;0					s06d15.mp3
+1	2	Démo	0	1	une;liberté;des;libertés						
+1	2	Démo	0	2	un;portail;des;portails						
+1	2	Démo	0	3	un;bal;des;bals						
+1	2	Démo	0	4	un;écrou;des;écrous						
+1	2	Démo	0	5	un;rail;des;rails						
+1	2	Démo	0	6	un;enfant;des;enfants						
+1	2	Démo	0	7	une;rue;des;rues  						
+1	2	Démo	0	8	une;chemise;des;chemises						
+1	2	Démo	0	9	une;sœur;des;sœurs						
+1	2	Démo	0	10	un;cousin;des;cousins						
+1	2	Démo	0	11	une;pensée;des;pensées						
+1	2	Démo	0	12	un;sou;des;sous						
+1	2	Classique	1	1	une;liberté;des;libertés						
+1	2	Classique	1	2	un;portail;des;portails						
+1	2	Classique	1	3	un;bal;des;bals						
+1	2	Classique	1	4	un;écrou;des;écrous						
+1	2	Classique	1	5	un;rail;des;rails						
+1	2	Classique	1	6	un;enfant;des;enfants						
+1	2	Classique	1	7	une;rue;des;rues  						
+1	2	Classique	1	8	une;chemise;des;chemises						
+1	2	Classique	1	9	une;sœur;des;sœurs						
+1	2	Classique	1	10	un;cousin;des;cousins						
+1	2	Classique	1	11	une;pensée;des;pensées						
+1	2	Classique	1	12	un;sou;des;sous						
+1	2	Classique	2	1	un;caillou;des;cailloux						
+1	2	Classique	2	2	un;pou;des;poux						
+1	2	Classique	2	3	un;festival;des;festivals						
+1	2	Classique	2	4	un;râteau;des;râteaux						
+1	2	Classique	2	5	un;cheveu;des;cheveux						
+1	2	Classique	2	6	un;manteau;des;manteaux						
+1	2	Classique	2	7	un;chou;des;choux						
+1	2	Classique	2	8	un;neveu;des;neveux						
+1	2	Classique	2	9	une;santé;des;santés						
+1	2	Classique	2	10	un;clou;des;clous						
+1	2	Classique	2	11	un;pneu;des;pneus						
+1	2	Classique	2	12	une;paille;des;pailles						
+1	2	Classique	3	1	un;bus;des;bus						
+1	2	Classique	3	2	un;procès;des;procès						
+1	2	Classique	3	3	un;bateau;des;bateaux						
+1	2	Classique	3	4	un;jeu;des;jeux						
+1	2	Classique	3	5	un;puits;des;puits						
+1	2	Classique	3	6	un;chapeau;des;chapeaux						
+1	2	Classique	3	7	un;bras;des;bras						
+1	2	Classique	3	8	un;matelas;des;matelas						
+1	2	Classique	3	9	un;tuyau;des;tuyaux						
+1	2	Classique	3	10	un;genou;des;genoux						
+1	2	Classique	3	11	un;pas;des;pas						
+1	2	Classique	3	12	un;univers;des;univers						
+1	2	Classique	4	1	un;trou;des;trous						
+1	2	Classique	4	2	une;paix;des;paix						
+1	2	Classique	4	3	un;récital;des;récitals						
+1	2	Classique	4	4	un;détail;des;détails						
+1	2	Classique	4	5	une;croix;des;croix						
+1	2	Classique	4	6	un;peureux;des;peureux						
+1	2	Classique	4	7	un;secours;des;secours						
+1	2	Classique	4	8	un;enjeu;des;enjeux						
+1	2	Classique	4	9	un;pieu;des;pieux						
+1	2	Classique	4	10	une;faux;des;faux						
+1	2	Classique	4	11	un;remords;des;remords						
+1	2	Classique	4	12	une;vis;des;vis						
+1	2	Classique	5	1	un;bois;des;bois						
+1	2	Classique	5	2	une;fourmi;des;fourmis						
+1	2	Classique	5	3	une;noix;des;noix						
+1	2	Classique	5	4	un;gaz;des;gaz						
+1	2	Classique	5	5	un;refus;des;refus						
+1	2	Classique	5	6	un;cactus;des;cactus						
+1	2	Classique	5	7	un;nez;des;nez						
+1	2	Classique	5	8	un;houx;des;houx						
+1	2	Classique	5	9	un;taudis;des;taudis						
+1	2	Classique	5	10	un;filou;des;filous						
+1	2	Classique	5	11	un;verrou;des;verrous						
+1	2	Classique	5	12	un;tissu;des;tissus						
+1	2	Classique	6	1	un;bisou;des;bisous						
+1	2	Classique	6	2	un;matériel;des;matériels						
+1	2	Classique	6	3	un;pari;des;paris						
+1	2	Classique	6	4	un;lynx;des;lynx						
+1	2	Classique	6	5	une;merguez;des;merguez						
+1	2	Classique	6	6	un;signal;des;signaux						
+1	2	Classique	6	7	un;hibou;des hiboux						
+1	2	Classique	6	8	un;métal;des;métaux						
+1	2	Classique	6	9	un;tapis;des;tapis						
+1	2	Classique	6	10	un;journal;des journaux						
+1	2	Classique	6	11	un;outil;des;outils						
+1	2	Classique	6	12	un;vœu;des;vœux						
+1	2	Classique	7	1	un;accès;des;accès						
+1	2	Classique	7	2	un;corail;des;coraux						
+1	2	Classique	7	3	un;lycée;des;lycées						
+1	2	Classique	7	4	un;bijou;des;bijoux						
+1	2	Classique	7	5	un;épi;des;épis						
+1	2	Classique	7	6	un;carnaval;des;carnavals						
+1	2	Classique	7	7	un;fusil;des;fusils						
+1	2	Classique	7	8	une;soie;des;soies						
+1	2	Classique	7	9	un;chameau;des;chameaux						
+1	2	Classique	7	10	un;hôpital;des;hôpitaux						
+1	2	Classique	7	11	un;travail;des;travaux						
+1	2	Classique	7	12	un;incendie;des;incendies						
+1	2	Classique	8	1	un;régal;des;régals						
+1	2	Classique	8	2	un;épouvantail;des;épouvantails						
+1	2	Classique	8	3	un;jus;des;jus						
+1	2	Classique	8	4	un;quiz;des;quiz						
+1	2	Classique	8	5	un;e-mail;des;e-mails						
+1	2	Classique	8	6	un;matériau;des;matériaux						
+1	2	Classique	8	7	un;prix;des;prix						
+1	2	Classique	8	8	un;colis;des;colis						
+1	2	Classique	8	9	un;morceau;des;morceaux						
+1	2	Classique	8	10	un;signal;des;signaux						
+1	2	Classique	8	11	un;creux;des;creux						
+1	2	Classique	8	12	un;musée;des;musées						
+1	2	Classique	9	1	un;concours;des;concours						
+1	2	Classique	9	2	un;choix;des;choix						
+1	2	Classique	9	3	un;vitrail;des;vitraux						
+1	2	Classique	9	4	un;fou;des;fous						
+1	2	Classique	9	5	un;feu;des;feux						
+1	2	Classique	9	6	un;œil;des;yeux						
+1	2	Classique	9	7	un;cadeau;des;cadeaux						
+1	2	Classique	9	8	une;souris;des;souris						
+1	2	Classique	9	9	un;mois;des;mois						
+1	2	Classique	9	10	un;temps;des;temps						
+1	2	Classique	9	11	un;mal;des;maux						
+1	2	Classique	9	12	un;rideau;des;rideaux						
+1	2	Classique	10	1	une;histoire;des;histoires						
+1	2	Classique	10	2	une;odeur;des;odeurs 						
+1	2	Classique	10	3	une;voix;des;voix 						
+1	2	Classique	10	4	un;tableau;des;tableaux 						
+1	2	Classique	10	5	une;loi;des;lois 						
+1	2	Classique	10	6	un;minéral;des;minéraux 						
+1	2	Classique	10	7	un;rébus;des;rébus 						
+1	2	Classique	10	8	une;journée;des;journées 						
+1	2	Classique	10	9	un;abus;des;abus 						
+1	2	Classique	10	10	un;oiseau;des;oiseaux 						
+1	2	Classique	10	11	une;peau;des;peaux 						
+1	2	Classique	10	12	un;parapluie;des;parapluies 						
+1	3	Classique	0	1	un;ami	2;1;1;1 					demod01.mp3
+1	3	Classique	0	2	des;amis	2;2;1;2 					demod02.mp3
+1	3	Découvrir	1	1	un;ami	2;1;1;1 					s01p1d01.mp3
+1	3	Découvrir	1	2	des;amis	2;2;1;2 					s01p1d02.mp3
+1	3	Découvrir	1	3	une;loi	2;1;1;1					s01p1d03.mp3
+1	3	Découvrir	1	4	des;lois	2;2;1;2					s01p1d04.mp3
+1	3	Découvrir	1	5	des;musées	2;2;1;2					s01p1d05.mp3
+1	3	Découvrir	1	6	un;musée	2;1;1;1					s01p1d06.mp3
+1	3	Découvrir	1	7	le;mur	2;1;1;1					s01p1d07.mp3
+1	3	Découvrir	1	8	les;murs	2;2;1;2					s01p1d08.mp3
+1	3	Pratiquer	1	1	trois;ponts	2;2;1;2	un pont - trois ponts				s01p2d01.mp3
+1	3	Pratiquer	1	2	ma;sœur	2;1;1;1	ma sœur - mes sœurs				s01p2d02.mp3
+1	3	Pratiquer	1	3	leurs;enfants	2;2;1;2	leur enfant - leurs enfants				s01p2d03.mp3
+1	3	Pratiquer	1	4	des;chemises	2;2;1;2	une chemise - des chemises				s01p2d04.mp3
+1	3	Pratiquer	1	5	une;maison	2;1;1;1	une maison - des maisons				s01p2d05.mp3
+1	3	Pratiquer	1	6	la;rue	2;1;1;1	la rue – les rues				s01p2d06.mp3
+1	3	Pratiquer	1	7	quelques;écrous	2;2;1;2	un écrou - quelques écrous				s01p2d07.mp3
+1	3	Pratiquer	1	8	des;e-mails	2;2;1;2	un e-mail - des e-mails				s01p2d08.mp3
+1	3	Pratiquer	1	9	le;bal	2;1;1;1	le bal - les bals				s01p2d09.mp3
+1	3	Pratiquer	1	10	un;verrou	2;1;1;1	un verrou - des verrous				s01p2d10.mp3
+1	3	Pratiquer	1	11	des;rails	2;2;1;2	un rail - des rails				s01p2d11.mp3
+1	3	Pratiquer	1	12	son;cousin	2;1;1;1	son cousin - ses cousins				s01p2d12.mp3
+1	3	Pratiquer	1	13	ses cousines	2;2;1;2	sa cousine - ses cousines				s01p2d13.mp3
+1	3	Pratiquer	1	14	une pensée	2;1;1;1	une pensée - des pensées				s01p2d14.mp3
+1	3	Pratiquer	1	15	la nouveauté	2;1;1;1	la nouveauté - les nouveautés				s01p2d15.mp3
+1	3	Découvrir	2	1	un;bureau	2;1;1;1					s02p1d01.mp3
+1	3	Découvrir	2	2	des;bureaux	2;2;1;2					s02p1d02.mp3
+1	3	Découvrir	2	3	quelques;tuyaux	2;2;1;2					s02p1d03.mp3
+1	3	Découvrir	2	4	un;tuyau	2;1;1;1					s02p1d04.mp3
+1	3	Découvrir	2	5	des;feux	2;2;1;2					s02p1d05.mp3
+1	3	Découvrir	2	6	un;feu	2;1;1;1					s02p1d06.mp3
+1	3	Découvrir	2	7	un;caillou	2;1;1;1					s02p1d07.mp3
+1	3	Découvrir	2	8	trois;cailloux	2;2;1;2					s02p1d08.mp3
+1	3	Pratiquer	2	1	un;chou	2;1;1;1;2	un chou - des choux				s02p2d01.mp3
+1	3	Pratiquer	2	2	un;clou	2;1;1;1;1	un clou - des clous				s02p2d02.mp3
+1	3	Pratiquer	2	3	un;portail	2;1;1;1;1	un portail - des portails				s02p2d03.mp3
+1	3	Pratiquer	2	4	une;taille	2;1;1;1;1	une taille - des tailles				s02p2d04.mp3
+1	3	Pratiquer	2	5	quatre;pneus	2;2;1;2;1	un pneu - quatre pneus				s02p2d05.mp3
+1	3	Pratiquer	2	6	des;panneaux	2;2;1;2;2	un panneau - des panneaux				s02p2d06.mp3
+1	3	Pratiquer	2	7	ses;couleurs	2;2;1;2;1	sa couleur - ses couleurs				s02p2d07.mp3
+1	3	Pratiquer	2	8	des;poux	2;2;1;2;2	un pou - des poux				s02p2d08.mp3
+1	3	Pratiquer	2	9	l';unité	2;1;1;1;1	l'unité - les unités				s02p2d09.mp3
+1	3	Pratiquer	2	10	des;revues	2;2;1;2;1	une revue - des revues				s02p2d10.mp3
+1	3	Pratiquer	2	11	un;cheveu	2;1;1;1;2	un cheveu - des cheveux				s02p2d11.mp3
+1	3	Pratiquer	2	12	mon;réseau	2;1;1;1;2	mon réseau - mes réseaux				s02p2d12.mp3
+1	3	Pratiquer	2	13	plusieurs;festivals	2;2;1;2;1	un festival - plusieurs festivals				s02p2d13.mp3
+1	3	Pratiquer	2	14	une;femme	2;1;1;1;1	une femme - des femmes				s02p2d14.mp3
+1	3	Pratiquer	2	15	son;cocktail	2;1;1;1;1	son cocktail - ses cocktails				s02p2d15.mp3
+1	3	Découvrir	3	1	une;souris	2;1;1;1					s03p1d01.mp3
+1	3	Découvrir	3	2	plusieurs;souris	2;2;1;2					s03p1d02.mp3
+1	3	Découvrir	3	3	des;colis	2;2;1;2 					s03p1d03.mp3
+1	3	Découvrir	3	4	un;colis	2;1;1;1					s03p1d04.mp3
+1	3	Découvrir	3	5	un;virus	2;1;1;1					s03p1d05.mp3
+1	3	Découvrir	3	6	quelques;virus	2;2;1;2					s03p1d06.mp3
+1	3	Découvrir	3	7	certains;pays	2;2;1;2					s03p1d07.mp3
+1	3	Découvrir	3	8	un;pays	2;1;1;1					s03p1d08.mp3
+1	3	Pratiquer	3	1	un;jus	2;1;1;1;3	un jus - des jus				s03p2d01.mp3
+1	3	Pratiquer	3	2	des;cas	2;2;1;2;3	un cas - des cas				s03p2d02.mp3
+1	3	Pratiquer	3	3	son;morceau	2;1;1;1;2	son morceau - ses morceaux				s03p2d03.mp3
+1	3	Pratiquer	3	4	quatre;niveaux	2;2;1;2;2	un niveau - quatre niveaux				s03p2d04.mp3
+1	3	Pratiquer	3	5	des;radis	2;2;1;2;3	un radis - des radis				s03p2d05.mp3
+1	3	Pratiquer	3	6	la;table	2;1;1;1;1	la table - les tables				s03p2d06.mp3
+1	3	Pratiquer	3	7	des;jeux	2;2;1;2;2	un jeu - des jeux				s03p2d07.mp3
+1	3	Pratiquer	3	8	un;bleu	2;1;1;1;1	un bleu - des bleus				s03p2d08.mp3
+1	3	Pratiquer	3	9	des;devis	2;2;1;2;3	un devis - des devis				s03p2d09.mp3
+1	3	Pratiquer	3	10	un;bus	2;1;1;1;3	un bus - des bus				s03p2d10.mp3
+1	3	Pratiquer	3	11	un;genou	2;1;1;1;2	un genou - des genoux				s03p2d11.mp3
+1	3	Pratiquer	3	12	un;loup	2;1;1;1;1	un loup - des loups				s03p2d12.mp3
+1	3	Pratiquer	3	13	des;choux	2;2;1;2;2	un chou - des choux				s03p2d13.mp3
+1	3	Pratiquer	3	14	des;pas	2;2;1;2;3	un pas - des pas				s03p2d14.mp3
+1	3	Pratiquer	3	15	des;engrais	2;2;1;2;3	un engrais - des engrais				s03p2d15.mp3
+1	3	Découvrir	4	1	un;prix	2;1;1;1					s04p1d01.mp3
+1	3	Découvrir	4	2	des;prix	2;2;1;2					s04p1d02.mp3
+1	3	Découvrir	4	3	quelques;croix	2;2;1;2					s04p1d03.mp3
+1	3	Découvrir	4	4	une;croix	2;1;1;1					s04p1d04.mp3
+1	3	Découvrir	4	5	la;toux	2;1;1;1					s04p1d05.mp3
+1	3	Découvrir	4	6	des;toux	2;2;1;2					s04p1d06.mp3
+1	3	Découvrir	4	7	des;vieux	2;2;1;2					s04p1d07.mp3
+1	3	Découvrir	4	8	un;vieux	2;1;1;1					s04p1d08.mp3
+1	3	Pratiquer	4	1	des;peureux	2;2;1;2;4	un peureux - des peureux				s04p2d01.mp3
+1	3	Pratiquer	4	2	une;vis	2;1;1;1;3	une vis - des vis				s04p2d02.mp3
+1	3	Pratiquer	4	3	une;paix	2;1;1;1;4	une paix - des paix				s04p2d03.mp3
+1	3	Pratiquer	4	4	un;discours	2;1;1;1;3	un discours - des discours				s04p2d04.mp3
+1	3	Pratiquer	4	5	des;enjeux	2;2;1;2;2	un enjeu - des enjeux				s04p2d05.mp3
+1	3	Pratiquer	4	6	une;roue	2;1;1;1;1	une roue - des roues				s04p2d06.mp3
+1	3	Pratiquer	4	7	un;aveu	2;1;1;1;2	un aveu - des aveux				s04p2d07.mp3
+1	3	Pratiquer	4	8	dix;allées	2;2;1;2;1	une allée - dix allées				s04p2d08.mp3
+1	3	Pratiquer	4	9	un;client	2;1;1;1;1	un client - des clients				s04p2d09.mp3
+1	3	Pratiquer	4	10	une;faux	2;1;1;1;4	une faux - des faux				s04p2d10.mp3
+1	3	Pratiquer	4	11	des;secours	2;2;1;2;3	un secours - des secours				s04p2d11.mp3
+1	3	Pratiquer	4	12	des;chacals	2;2;1;2;1	un chacal – des chacals				s04p2d12.mp3
+1	3	Pratiquer	4	13	un;détail	2;1;1;1;1	un détail - des détails				s04p2d13.mp3
+1	3	Pratiquer	4	14	un;coucou	2;1;1;1;1	un coucou - des coucous				s04p2d14.mp3
+1	3	Pratiquer	4	15	la;perdrix	2;1;1;1;4	la perdrix - les perdrix				s04p2d15.mp3
+1	3	Découvrir	5	1	un;gaz	2;1;1;1					s05p1d01.mp3
+1	3	Découvrir	5	2	des;gaz	2;2;1;2					s05p1d02.mp3
+1	3	Découvrir	5	3	un;riz	2;1;1;1					s05p1d03.mp3
+1	3	Découvrir	5	4	des;riz	2;2;1;2					s05p1d04.mp3
+1	3	Découvrir	5	5	des;quartz	2;2;1;2					s05p1d05.mp3
+1	3	Découvrir	5	6	un;quartz	2;1;1;1					s05p1d06.mp3
+1	3	Découvrir	5	7	du;jazz	2;1;1;1					s05p1d07.mp3
+1	3	Découvrir	5	8	des;jazz	2;2;1;2					s05p1d08.mp3
+1	3	Pratiquer	5	1	un;nez	2;1;1;1;5	un nez - des nez				s05p2d01.mp3
+1	3	Pratiquer	5	2	du;houx	2;1;1;1;4	du houx - des houx				s05p2d02.mp3
+1	3	Pratiquer	5	3	des;cactus	2;2;1;2;3	un cactus - des cactus				s05p2d03.mp3
+1	3	Pratiquer	5	4	un;bordereau	2;1;1;1;2	un bordereau – des bordereaux				s05p2d04.mp3
+1	3	Pratiquer	5	5	des;taudis	2;2;1;2;3	un taudis - des taudis				s05p2d05.mp3
+1	3	Pratiquer	5	6	le;bois	2;1;1;1;3	le bois - les bois				s05p2d06.mp3
+1	3	Pratiquer	5	7	des;boites	2;2;1;2;1	une boite - des boites				s05p2d07.mp3
+1	3	Pratiquer	5	8	une;fourmi	2;1;1;1;1	une fourmi - des fourmis				s05p2d08.mp3
+1	3	Pratiquer	5	9	des;filous	2;2;1;2;1	un filou - des filous				s05p2d09.mp3
+1	3	Pratiquer	5	10	un;voyou	2;1;1;1;1	un voyou - des voyous				s05p2d10.mp3
+1	3	Pratiquer	5	11	un;régal	2;1;1;1;1	un régal - des régals				s05p2d11.mp3
+1	3	Pratiquer	5	12	un;matériau	2;1;1;1;2	un matériau - des matériaux				s05p2d12.mp3
+1	3	Pratiquer	5	13	des;plaies	2;2;1;2;1	une plaie - des plaies				s05p2d13.mp3
+1	3	Pratiquer	5	14	du;tissu	2;1;1;1;1	du tissu - des tissus				s05p2d14.mp3
+1	3	Pratiquer	5	15	les;noix	2;2;1;2;4	la noix - les noix				s05p2d15.mp3
+1	3	Découvrir	6	1	un;journal	2;1;1;1					s06p1d01.mp3
+1	3	Découvrir	6	2	plusieurs;journaux	2;2;1;2					s06p1d02.mp3
+1	3	Découvrir	6	3	un;local	2;1;1;1					s06p1d03.mp3
+1	3	Découvrir	6	4	des;locaux						s06p1d04.mp3
+1	3	Découvrir	6	5	un;animal	2;1;1;1					s06p1d05.mp3
+1	3	Découvrir	6	6	des;animaux	2;2;1;2					s06p1d06.mp3
+1	3	Découvrir	6	7	trois;chevaux	2;2;1;2					s06p1d07.mp3
+1	3	Découvrir	6	8	un;cheval	2;1;1;1					s06p1d08.mp3
+1	3	Pratiquer	6	1	des;signaux	2;2;1;2;6	un signal - des signaux				s06p2d01.mp3
+1	3	Pratiquer	6	2	une;merguez	2;1;1;1;5	une merguez - des merguez				s06p2d02.mp3
+1	3	Pratiquer	6	3	des;lynx	2;2;1;2;4	un lynx - des lynx				s06p2d03.mp3
+1	3	Pratiquer	6	4	un;vœu	2;1;1;1;2	un vœu - des vœux				s06p2d04.mp3
+1	3	Pratiquer	6	5	des;tapis	2;2;1;2;3	un tapis - des tapis				s06p2d05.mp3
+1	3	Pratiquer	6	6	des;paris	2;2;1;2;1	un pari - des paris				s06p2d06.mp3
+1	3	Pratiquer	6	7	le;riz	2;1;1;1;5	le riz - les riz				s06p2d07.mp3
+1	3	Pratiquer	6	8	des;outils	2;2;1;2;1	un outil - des outils				s06p2d08.mp3
+1	3	Pratiquer	6	9	des;bisous	2;2;1;2;1	un bisou - des bisous				s06p2d09.mp3
+1	3	Pratiquer	6	10	des;hiboux	2;2;1;2;2	un hibou - des hiboux				s06p2d10.mp3
+1	3	Pratiquer	6	11	des;matériels	2;2;1;2;1	un matériel - des matériels				s06p2d11.mp3
+1	3	Pratiquer	6	12	un;métal	2;1;1;1;6	un métal - des métaux				s06p2d12.mp3
+1	3	Pratiquer	6	13	un;quiz	2;1;1;1;5	un quiz - des quiz				s06p2d13.mp3
+1	3	Pratiquer	6	14	des;concours	2;2;1;2;3	un concours - des concours				s06p2d14.mp3
+1	3	Pratiquer	6	15	des;fours	2;2;1;2;1	un four - des fours				s06p2d15.mp3
+1	3	Découvrir	7	1	mon;travail	2;1;1;1					s07p1d01.mp3
+1	3	Découvrir	7	2	mes;travaux	2;2;1;2					s07p1d02.mp3
+1	3	Découvrir	7	3	un;vitrail	2;1;1;1					s07p1d03.mp3
+1	3	Découvrir	7	4	des;vitraux	2;2;1;2					s07p1d04.mp3
+1	3	Découvrir	7	5	un;corail						s07p1d05.mp3
+1	3	Découvrir	7	6	des;coraux	2;2;1;2					s07p1d06.mp3
+1	3	Découvrir	7	7	un;émail	2;1;1;1					s07p1d07.mp3
+1	3	Découvrir	7	8	des;émaux	2;2;1;2					s07p1d08.mp3
+1	3	Pratiquer	7	1	un;abri	2;1;1;1;1	un abri - des abris				s07p2d01.mp3
+1	3	Pratiquer	7	2	des;incendies	2;2;1;2;1	un incendie - des incendies				s07p2d02.mp3
+1	3	Pratiquer	7	3	son;travail	2;1;1;1;7	son travail - ses travaux				s07p2d03.mp3
+1	3	Pratiquer	7	4	son;gouvernail	2;1;1;1;1	son gouvernail - ses gouvernails				s07p2d04.mp3
+1	3	Pratiquer	7	5	un;hôpital	2;1;1;1;6	un hôpital - des hôpitaux				s07p2d05.mp3
+1	3	Pratiquer	7	6	un;carnaval	2;1;1;1;1	un carnaval - des carnavals				s07p2d06.mp3
+1	3	Pratiquer	7	7	son;fils	2;1;1;1;3	son fils - ses fils				s07p2d07.mp3
+1	3	Pratiquer	7	8	une;chose	2;1;1;1;1	une chose - des choses				s07p2d08.mp3
+1	3	Pratiquer	7	9	son;choix	2;1;1;1;4	son choix - ses choix				s07p2d09.mp3
+1	3	Pratiquer	7	10	la;joie	2;1;1;1;1	la joie - les joies				s07p2d10.mp3
+1	3	Pratiquer	7	11	deux;accès	2;2;1;2;3	un accès - deux accès				s07p2d11.mp3
+1	3	Pratiquer	7	12	quelques;bijoux	2;2;1;2;2	un bijou - quelques bijoux				s07p2d12.mp3
+1	3	Pratiquer	7	13	un;escabeau	2;1;1;1;2	un escabeau - des escabeaux				s07p2d13.mp3
+1	3	Pratiquer	7	14	des;fusils	2;2;1;2;1	un fusil - des fusils				s07p2d14.mp3
+1	3	Pratiquer	7	15	un;trophée	2;2;1;2;1	un trophée - des trophées				s07p2d15.mp3
+1	3	Découvrir	8	1	les;vacances	2;2;1;2					
+1	3	Découvrir	8	2	des;jumelles	2;2;1;2					
+1	3	Découvrir	8	3	les;armoiries	2;2;1;2					
+1	3	Découvrir	8	4	les;vivres	2;2;1;2					
+1	3	Découvrir	8	5	les;thermes	2;2;1;2;8					
+1	3	Découvrir	8	6	les;oreilles	2;2;1;2;1					
+1	3	Découvrir	8	7	un;vitrail	2;1;1;1;7					
+1	3	Découvrir	8	8	l'autorail	2;1;1;1;1					
+1	3	Découvrir	8	9	quelques;morceaux	2;2;1;2;2					
+1	3	Découvrir	9	10	un;colis	2;1;1;1;3					
+1	3	Découvrir	10	11	des;creux	2;2;1;2;4 					
+1	3	Découvrir	11	12	un;émeu	2;1;1;1;1					
+1	3	Découvrir	12	13	un;émail	2;1;1;1;7					
+1	3	Découvrir	13	14	des;détails	2;2;1;2;1					
+1	3	Découvrir	14	15	un;nez	2;1;1;1;5					
+1	3	Découvrir	15	16	trois;musées	2;2;1;2;1 					
+1	3	Découvrir	16	17	les;archives	2;2;1;2;8					
+1	3	Découvrir	17	18	des;ersatz	2;2;1;2;5					
+1	3	Découvrir	18	19	des;matériaux	2;2;1;2;2					
+1	4	Démo	0	1	vif;vive;vifs;vives						
+1	4	Démo	0	2	bref;brève;brefs;brèves						
+1	4	Démo	0	3	actif;active;actifs;actives						
+1	4	Démo	0	4	neuf;neuve;neufs;neuves						
+1	4	Démo	0	5	fier;fière;fiers;fières						
+1	4	Démo	0	6	amer;amère;amers;amères						
+1	4	Démo	0	7	léger;légère;légers;légères						
+1	4	Démo	0	8	premier;première;premiers;premières						
+1	4	Démo	0	9	printanier;printanière;printaniers;printanières						
+1	4	Démo	0	10	routier;routière;routiers;routières						
+1	4	Démo	0	11	mat;mate;mats;mates						
+1	4	Démo	0	12	pointu;pointue;pointus;pointues						
+1	4	Classique	1	1	vif;vive;vifs;vives						
+1	4	Classique	1	2	bref;brève;brefs;brèves						
+1	4	Classique	1	3	actif;active;actifs;actives						
+1	4	Classique	1	4	neuf;neuve;neufs;neuves						
+1	4	Classique	1	5	cher;chère;chers;chères						
+1	4	Classique	1	6	amer;amère;amers;amères						
+1	4	Classique	1	7	léger;légère;légers;légères						
+1	4	Classique	1	8	premier;première;premiers;premières						
+1	4	Classique	1	9	étranger;étrangère;étrangers;étrangères						
+1	4	Classique	1	10	routier;routière;routiers;routières						
+1	4	Classique	1	11	mat;mate;mats;mates						
+1	4	Classique	1	12	pointu;pointue;pointus;pointues						
+1	4	Classique	2	1	ancien;ancienne;anciens;anciennes						
+1	4	Classique	2	2	moyen;moyenne;moyens;moyennes						
+1	4	Classique	2	3	bon;bonne;bons;bonnes						
+1	4	Classique	2	4	glouton;gloutonne;gloutons;gloutonnes						
+1	4	Classique	2	5	quotidien;quotidienne;quotidiens;quotidiennes						
+1	4	Classique	2	6	mitoyen;mitoyenne;mitoyens;mitoyennes						
+1	4	Classique	2	7	annuel;annuelle;annuels;annuelles						
+1	4	Classique	2	8	pareil;pareille;pareils;pareilles						
+1	4	Classique	2	9	mignon;mignonne;mignons;mignonnes						
+1	4	Classique	2	10	malin;maligne;malins;malignes						
+1	4	Classique	2	11	bénin;bénigne;bénins;bénignes						
+1	4	Classique	2	12	brun;brune;bruns;brunes						
+1	4	Classique	3	1	muet;muette;muets;muettes						
+1	4	Classique	3	2	net;nette;nets;nettes						
+1	4	Classique	3	3	douillet;douillette;douillets;douillettes						
+1	4	Classique	3	4	complet;complète;complets;complètes						
+1	4	Classique	3	5	inquiet;inquiète;inquiets;inquiètes						
+1	4	Classique	3	6	discret;discrète;discrets;discrètes						
+1	4	Classique	3	7	secret;secrète;secrets;secrètes						
+1	4	Classique	3	8	concret;concrète;concrets;concrètes						
+1	4	Classique	3	9	suspect;suspecte;suspects;suspectes						
+1	4	Classique	3	10	sot;sotte;sots;sottes						
+1	4	Classique	3	11	pâlot;pâlotte;pâlots;pâlottes						
+1	4	Classique	3	12	idiot;idiote;idiots;idiotes						
+1	4	Classique	4	1	courageux;courageuse;courageux;courageuses						
+1	4	Classique	4	2	curieux;curieuse;curieux;curieuses						
+1	4	Classique	4	3	dangereux;dangereuse;dangereux;dangereuses						
+1	4	Classique	4	4	délicieux;délicieuse;délicieux;délicieuses						
+1	4	Classique	4	5	heureux;heureuse;heureux;heureuses						
+1	4	Classique	4	6	frileux;frileuse;frileux;frileuses						
+1	4	Classique	4	7	gluant;gluante;gluants;gluantes						
+1	4	Classique	4	8	meilleur;meilleure;meilleurs;meilleures						
+1	4	Classique	4	9	mineur;mineure;mineurs;mineures						
+1	4	Classique	4	10	supérieur;supérieure;supérieurs;supérieures						
+1	4	Classique	4	11	vengeur;vengeresse;vengeurs;vengeresses						
+1	4	Classique	4	12	enchanteur;enchanteresse;enchanteurs;enchanteresses						
+1	4	Classique	5	1	furieux;furieuse;furieux;furieuses						
+1	4	Classique	5	2	chanceux;chanceuse;chanceux;chanceuses						
+1	4	Classique	5	3	lumineux;lumineuse;lumineux;lumineuses						
+1	4	Classique	5	4	creux;creuse;creux;creuses						
+1	4	Classique	5	5	gazeux;gazeuse;gazeux;gazeuses						
+1	4	Classique	5	6	admiratif;admirative;admiratifs;admiratives						
+1	4	Classique	5	7	moteur;motrice;moteurs;motrices						
+1	4	Classique	5	8	indicateur;indicatrice;indicateurs;indicatrices						
+1	4	Classique	5	9	protecteur;protectrice;protecteurs;protectrices						
+1	4	Classique	5	10	moqueur;moqueuse;moqueurs;moqueuses						
+1	4	Classique	5	11	baratineur;baratineuse;baratineurs;baratineuses						
+1	4	Classique	5	12	porteur;porteuse;porteurs;porteuses						
+1	4	Classique	6	1	affreux;affreuse;affreux;affreuses						
+1	4	Classique	6	2	précieux;précieuse;précieux;précieuses						
+1	4	Classique	6	3	volumineux;volumineuse;volumineux;volumineuses						
+1	4	Classique	6	4	amoureux;amoureuse;amoureux;amoureuses						
+1	4	Classique	6	5	véreux;véreuse;véreux;véreuses						
+1	4	Classique	6	6	vieux;vieille;vieux;vieilles						
+1	4	Classique	6	7	harmonieux;harmonieuse;harmonieux;harmonieuses						
+1	4	Classique	6	8	beau;belle;beaux;belles						
+1	4	Classique	6	9	nouveau;nouvelle;nouveaux;nouvelles						
+1	4	Classique	6	10	fréquent;fréquente;fréquents;fréquentes						
+1	4	Classique	6	11	profond;profonde;profonds;profondes						
+1	4	Classique	6	12	vert;verte;verts;vertes						
+1	4	Classique	7	1	doux;douce;doux;douces						
+1	4	Classique	7	2	roux;rousse;roux;rousses						
+1	4	Classique	7	3	plein;pleine;pleins;pleines						
+1	4	Classique	7	4	jaloux;jalouse;jaloux;jalouses						
+1	4	Classique	7	5	faux;fausse;faux;fausses						
+1	4	Classique	7	6	gras;grasse;gras;grasses						
+1	4	Classique	7	7	épais;épaisse;épais;épaisses						
+1	4	Classique	7	8	précis;précise;précis;précises						
+1	4	Classique	7	9	gris;grise;gris;grises						
+1	4	Classique	7	10	ras;rase;ras;rases						
+1	4	Classique	7	11	chinois;chinoise;chinois;chinoises						
+1	4	Classique	7	12	rigolo;rigolote;rigolos;rigolotes						
+1	4	Classique	8	1	blanc;blanche;blancs;blanches						
+1	4	Classique	8	2	blond;blonde;blonds;blondes						
+1	4	Classique	8	3	chaud;chaude;chauds;chaudes						
+1	4	Classique	8	4	grand;grande;grands;grandes						
+1	4	Classique	8	5	haut;haute;hauts;hautes						
+1	4	Classique	8	6	joli;jolie;jolis;jolies						
+1	4	Classique	8	7	long;longue;longs;longues						
+1	4	Classique	8	8	turc;turque;turcs;turques						
+1	4	Classique	8	9	caduc;caduque;caducs;caduques						
+1	4	Classique	8	10	franc;franche;francs;franches						
+1	4	Classique	8	11	laïc;laïque;laïcs;laïques						
+1	4	Classique	8	12	public;publique;publics;publiques						
+1	4	Classique	9	1	commercial;commerciale;commerciaux;commerciales						
+1	4	Classique	9	2	total;totale;totaux;totales						
+1	4	Classique	9	3	brutal;brutale;brutaux;brutales						
+1	4	Classique	9	4	original;originale;originaux;originales						
+1	4	Classique	9	5	postal;postale;postaux;postales						
+1	4	Classique	9	6	familial;familiale;familiaux;familiales						
+1	4	Classique	9	7	national;nationale;nationaux;nationales						
+1	4	Classique	9	8	vagal;vagale;vagaux;vagales						
+1	4	Classique	9	9	natal;natale;natals;natales						
+1	4	Classique	9	10	social;sociale;sociaux;sociales						
+1	4	Classique	9	11	fatal;fatale;fatals;fatales						
+1	4	Classique	9	12	bancal;bancale;bancals;bancales						
+1	4	Classique	10	1	moderne;moderne;modernes;modernes						
+1	4	Classique	10	2	économique;économique;économiques;économiques						
+1	4	Classique	10	3	juste;juste;justes;justes						
+1	4	Classique	10	4	libre;libre;libres;libres						
+1	4	Classique	10	5	sale;sale;sales;sales						
+1	4	Classique	10	6	jaune;jaune;jaunes;jaunes						
+1	4	Classique	10	7	jeune;jeune;jeunes;jeunes						
+1	4	Classique	10	8	troisième;troisième;troisièmes;troisièmes						
+1	4	Classique	10	9	marron;marron;marron;marron						
+1	4	Classique	10	10	kaki;kaki;kaki;kaki						
+1	4	Classique	10	11	orange;orange;orange;orange						
+1	4	Classique	10	12	rapide;rapide;rapides;rapides						
+1	5	Démo	0	1	un;grand;pas	2;1;3;1;1;1;3					demod01.mp3
+1	5	Démo	0	2	de;grandes;aventures	2;4;3;4;1;2;1					demod02.mp3
+1	5	Démo	0	3	deux;grands;pas	2;3;3;3;1;2;3					demod03.mp3
+1	5	Démo	0	4	une;grande;aventure	2;2;3;2;1;1;1					demod04.mp3
+1	5	Découvrir	1	1	un;grand;pas	2;1;3;1;1;1;3					s01p1d01.mp3
+1	5	Découvrir	1	2	de;grandes;aventures	2;4;3;4;1;2;1					s01p1d02.mp3
+1	5	Découvrir	1	3	deux;grands;pas	2;3;3;3;1;2;3					s01p1d03.mp3
+1	5	Découvrir	1	4	une;grande;aventure	2;2;3;2;1;1;1					s01p1d04.mp3
+1	5	Découvrir	1	5	une;fenêtre;ouverte	2;2;1;1;1;3;2					s01p1d05.mp3
+1	5	Découvrir	1	6	des;livres;ouverts	2;3;1;2;1;3;3					s01p1d06.mp3
+1	5	Découvrir	1	7	des;fenêtres;ouvertes	2;4;1;2;1;3;4					s01p1d07.mp3
+1	5	Découvrir	1	8	un;livre;ouvert	2;1;1;1;1;3;1					s01p1d08.mp3
+1	5	Découvrir	1	9	des;signaux;brefs	2;3;1;2;6;3;3					s01p1d09.mp3
+1	5	Découvrir	1	10	des;pluies;brèves	2;4;1;2;1;3;4					s01p1d10.mp3
+1	5	Découvrir	1	11	un;signal;bref	2;1;1;1;6;3;1					s01p1d11.mp3
+1	5	Découvrir	1	12	une;pluie;brève	2;2;1;1;1;3;2					s01p1d12.mp3
+1	5	Découvrir	1	13	des;cheveux;blancs	2;3;1;2;2;3;3					s01p1d13.mp3
+1	5	Découvrir	1	14	une;souris;blanche	2;2;1;1;3;3;2					s01p1d14.mp3
+1	5	Découvrir	1	15	un;cheveu;blanc	2;1;1;1;2;3;1					s01p1d15.mp3
+1	5	Découvrir	1	16	trois;souris;blanches	2;4;1;2;3;3;4					s01p1d16.mp3
+1	5	Pratiquer	1	1	quelques;paris;idiots	2;3;1;2;1;3;3;1					s01p2d01.mp3
+1	5	Pratiquer	1	2	un;riz;cuit	2;1;1;1;5;3;1;1					s01p2d02.mp3
+1	5	Pratiquer	1	3	une;décision;soudaine	2;2;1;1;1;3;2;1					s01p2d03.mp3
+1	5	Pratiquer	1	4	de;longs;tuyaux	2;3;3;3;1;1;2;2					s01p2d04.mp3
+1	5	Pratiquer	1	5	un;puits;profond	2;1;1;1;3;3;1;1					s01p2d05.mp3
+1	5	Pratiquer	1	6	de;bonnes;merguez	2;4;3;4;1;1;2;5					s01p2d06.mp3
+1	5	Pratiquer	1	7	plusieurs;pays;chauds	2;3;1;2;3;3;3;1					s01p2d07.mp3
+1	5	Pratiquer	1	8	une;petite;valise	2;2;3;2;1;1;1;1					s01p2d08.mp3
+1	5	Pratiquer	1	9	des;musées;ouverts	2;3;1;2;1;3;3;1					s01p2d09.mp3
+1	5	Pratiquer	1	10	une;peau;sèche	2;2;1;1;2;3;2;1					s01p2d10.mp3
+1	5	Découvrir	2	1	un;rire;nerveux	2;1;1;1;1;3;1					s02p1d01.mp3
+1	5	Découvrir	2	2	une;voiture;nerveuse	2;2;1;1;1;3;2					s02p1d02.mp3
+1	5	Découvrir	2	3	des;voitures;nerveuses	2;4;1;2;1;3;4					s02p1d03.mp3
+1	5	Découvrir	2	4	 des;rires;nerveux	2;3;1;2;1;3;3					s02p1d04.mp3
+1	5	Découvrir	2	5	une;voix;douce	2;2;1;1;4;3;2					s02p1d05.mp3
+1	5	Découvrir	2	6	des;voix;douces	2;4;1;2;4;3;4					s02p1d06.mp3
+1	5	Découvrir	2	7	un;tissu;doux	2;1;1;1;1;3;1					s02p1d07.mp3
+1	5	Découvrir	2	8	des;tissus;doux	2;3;1;2;1;3;3					s02p1d08.mp3
+1	5	Découvrir	2	9	une;addition;fausse	2;2;1;1;1;3;2					s02p1d09.mp3
+1	5	Découvrir	2	10	des;calculs;faux	2;3;1;2;1;3;3					s02p1d10.mp3
+1	5	Découvrir	2	11	des;additions;fausses	2;4;1;2;1;3;4					s02p1d11.mp3
+1	5	Découvrir	2	12	un;calcul;faux	2;1;1;1;1;3;1					s02p1d12.mp3
+1	5	Découvrir	2	13	un;vieux;journal	2;1;3;1;1;1;2					s02p1d13.mp3
+1	5	Découvrir	2	14	une;vieille;copine	2;2;3;2;1;1;1					s02p1d14.mp3
+1	5	Découvrir	2	15	de;vieux;journaux	2;3;3;3;1;2;2					s02p1d15.mp3
+1	5	Découvrir	2	16	de;vieilles;copines	2;4;3;4;1;2;1					s02p1d16.mp3
+1	5	Pratiquer	2	1	son;vieux;matelas	2;1;3;1;2;1;1;3					s02p2d01.mp3
+1	5	Pratiquer	2	2	des;virus;dangereux	2;3;1;2;3;3;3;2					s02p2d02.mp3
+1	5	Pratiquer	2	3	des;collègues;jalouses	2;4;1;2;1;3;4;2					s02p2d03.mp3
+1	5	Pratiquer	2	4	des;cartes;routières	2;4;1;2;1;3;4;1					s02p2d04.mp3
+1	5	Pratiquer	2	5	un;feu;défectueux	2;1;1;1;2;3;1;2					s02p2d05.mp3
+1	5	Pratiquer	2	6	des;panneaux;indicateurs	2;3;1;2;2;3;3;1					s02p2d06.mp3
+1	5	Pratiquer	2	7	une;noix;véreuse	2;2;1;1;4;3;2;2					s02p2d07.mp3
+1	5	Pratiquer	2	8	 les;banques;européennes	2;4;1;2;1;3;4;1					s02p2d08.mp3
+1	5	Pratiquer	2	9	quelles;glaces;délicieuses	2;4;1;2;1;3;4;2					s02p2d09_quelles.mp3
+1	5	Pratiquer	2	10	un;ciel;bleu	2;1;1;1;1;3;1;1					s02p2d10.mp3
+1	5	Découvrir	3	1	de;nouveaux;travaux	2;3;3;3;1;2;7					s03p1d01.mp3
+1	5	Découvrir	3	2	une;nouvelle;histoire	2;2;3;2;1;1;1					s03p1d02.mp3
+1	5	Découvrir	3	3	plusieurs;nouvelles;histoires	2;4;3;4;1;2;1					s03p1d03.mp3
+1	5	Découvrir	3	4	un;nouveau;travail	2;1;3;1;1;1;7					s03p1d04.mp3
+1	5	Découvrir	3	5	des;sourires;amicaux	2;3;1;2;1;3;3					s03p1d05.mp3
+1	5	Découvrir	3	6	des;soirées;amicales	2;4;1;2;1;3;4					s03p1d06.mp3
+1	5	Découvrir	3	7	une;soirée;amicale	2;2;1;1;1;3;2					s03p1d07mp3
+1	5	Découvrir	3	8	un;sourire;amical	2;1;1;1;1;3;1					s03p1d08.mp3
+1	5	Découvrir	3	9	un;colis;postal	2;1;1;1;3;3;1					s03p1d09.mp3
+1	5	Découvrir	3	10	leur;adresse;postale	2;2;1;1;1;3;2					s03p1d10.mp3
+1	5	Découvrir	3	11	des;colis;postaux	2;3;1;2;3;3;3					s03p1d11.mp3
+1	5	Découvrir	3	12	leurs;adresses;postales	2;4;1;2;1;3;4					s03p1d12.mp3
+1	5	Découvrir	3	13	un;vieil;étui	2;1;3;1;1;1;1					s03p1d13.mp3
+1	5	Découvrir	3	14	une;vieille;armoire	2;2;3;2;1;1;1					s03p1d14.mp3
+1	5	Découvrir	3	15	de;vieilles;armoires	2;4;3;4;1;2;1					s03p1d15.mp3
+1	5	Découvrir	3	16	de;vieux;étuis	2;3;3;3;1;2;1					S03p1d16.mp3
+1	5	Pratiquer	3	1	de;nouveaux;jeux	2;3;3;3;3;1;2;2					s03p2d01.mp3
+1	5	Pratiquer	3	2	un;vieil;escabeau	2;1;3;1;3;1;1;2					s03p2d02.mp3
+1	5	Pratiquer	3	3	de;curieuses;lunettes	2;4;3;4;2;1;2;1 					s03p2d03.mp3
+1	5	Pratiquer	3	4	une;gare;centrale	2;2;1;1;1;3;2;3					s03p2d04.mp3
+1	5	Pratiquer	3	5	mon;code;postal	2;1;1;1;1;;3;1;3					s03p2d05.mp3
+1	5	Pratiquer	3	6	des;animaux;peureux	2;3;1;2;6;3;3;2					s03p2d06.mp3
+1	5	Pratiquer	3	7	des;métaux;précieux 	2;3;1;2;6;3;3;2					s03p2d07.mp3
+1	5	Pratiquer	3	8	quelques;couteaux;originaux	2;3;1;2;2;3;3;3					s03p2d08.mp3
+1	5	Pratiquer	3	9	de;nombreuses;failles	2;4;3;4;2;1;2;1					s03p2d09.mp3
+1	5	Pratiquer	3	10	une;eau;gazeuse 	2;2;1;1;2;3;2;2					s03p2d10.mp3
+1	5	Découvrir	4	1	une;idée;précise	2;2;1;1;1;3;2					s04p1d01.mp3
+1	5	Découvrir	4	2	un;geste;précis	2;1;1;1;1;3;1					s04p1d02.mp3
+1	5	Découvrir	4	3	des;gestes;précis	2;3;1;2;1;3;3					s04p1d03.mp3
+1	5	Découvrir	4	4	quelques;idées;précises	2;4;1;2;1;3;4					s04p1d04.mp3
+1	5	Découvrir	4	5	une;table;basse	2;2;1;1;1;3;2					s04p1d05.mp3
+1	5	Découvrir	4	6	un;coup;bas	2;1;1;1;1;3;1					s04p1d06.mp3
+1	5	Découvrir	4	7	des;tables;basses	2;4;1;2;1;3;4					s04p1d07.mp3
+1	5	Découvrir	4	8	des;coups;bas	2;3;1;2;1;3;3					s04p1d08.mp3
+1	5	Découvrir	4	9	d'épais;cahiers	2;3;3;3;1;2;1					s04p1d09.mp3
+1	5	Découvrir	4	10	un;cahier;épais	2;1;1;1;1;3;1					s04p1d10.mp3
+1	5	Découvrir	4	11	une;tranche;épaisse	2;2;1;1;1;3;2					s04p1d11.mp3
+1	5	Découvrir	4	12	des;tranches;épaisses	2;4;1;2;1;3;4					s04p1d12.mp3
+1	5	Découvrir	4	13	une;grosse;voix	2;2;3;2;1;1;4					s04p1d13.mp3
+1	5	Découvrir	4	14	de;grosses;voix	2;4;3;4;1;2;4					s04p1d14.mp3
+1	5	Découvrir	4	15	un;gros;morceau	2;1;3;1;1;1;2					s04p1d15.mp3
+1	5	Découvrir	4	16	plusieurs;gros;morceaux	2;3;3;3;1;2;2					s04p1d16.mp3
+1	5	Pratiquer	4	1	de;mauvais;films;français	2;3;3;3;4;1;2;1;3;3;4					s04p2d01.mp3
+1	5	Pratiquer	4	2	une;vraie;ratatouille;provençale	2;2;3;2;1;1;1;1;3;2;3					s04p2d02.mp3
+1	5	Pratiquer	4	3	quel;beau;premier;essai	2;1;3;1;3;3;1;1;1;1;1					s04p2d03.mp3
+1	5	Pratiquer	4	4	de;fréquentes;douleurs;dorsales	2;4;3;4;1;1;2;1;3;4;3					s04p2d04.mp3
+1	5	Pratiquer	4	5	de;vieux;clous;rouillés	2;3;3;3;2;1;2;1;3;3;1					s04p2d05.mp3
+1	5	Pratiquer	4	6	des;motos;japonaises;neuves	2;4;1;2;1;3;4;4;3;4;1					s04p2d06.mp3
+1	5	Pratiquer	4	7	des;épiceries;turques;ouvertes	2;4;1;2;1;3;4;1;3;4;1					s04p2d07.mp3
+1	5	Pratiquer	4	8	un;riz;gluant;délicieux	2;1;1;1;5;3;1;1;3;1;2					s04p2d08.mp3
+1	5	Pratiquer	4	9	des;haricots;verts;frais	2;3;1;2;1;3;3;1;3;3;4					s04p2d09.mp3
+1	5	Pratiquer	4	10	de;gros;nuages;gris	2;3;3;3;4;1;2;1;3;3;4					s04p2d10.mp3
+1	5	Découvrir	5	1	un;signal;sonore	2;1;1;1;6;3;1					s05p1d01.mp3
+1	5	Découvrir	5	2	des;bandes;sonores	2;4;1;2;1;3;4					s05p1d02.mp3
+1	5	Découvrir	5	3	des;signaux;sonores	2;3;1;2;6;3;3					s05p1d03.mp3
+1	5	Découvrir	5	4	une;bande;sonore	2;2;1;1;1;3;2					s05p1d04.mp3
+1	5	Découvrir	5	5	une;sale;bête	2;2;3;2;1;1;1					s05p1d05.mp3
+1	5	Découvrir	5	6	un;simple;clic	2;1;3;1;1;1;1					s05p1d06.mp3
+1	5	Découvrir	5	7	de;simples;clics	2;3;3;3;1;2;1					s05p1d07.mp3
+1	5	Découvrir	5	8	de;sales;bêtes	2;4;3;4;1;2;1					s05p1d08.mp3
+1	5	Découvrir	5	9	des;barres;fixes	2;4;1;2;1;3;4					s05p1d09.mp3
+1	5	Découvrir	5	10	un;prix;fixe	2;1;1;1;4;3;1					s05p1d10.mp3
+1	5	Découvrir	5	11	des;prix;fixes	2;3;1;2;4;3;3					s05p1d11.mp3
+1	5	Découvrir	5	12	une;barre;fixe	2;2;1;1;1;3;2					s05p1d12.mp3
+1	5	Découvrir	5	13	un;gaz;rare	2;1;1;1;5;3;1					s05p1d13.mp3
+1	5	Découvrir	5	14	une;fleur;rare	2;2;1;1;1;3;2					s05p1d14.mp3
+1	5	Découvrir	5	15	des;gaz;rares	2;3;1;2;5;3;3					s05p1d15.mp3
+1	5	Découvrir	5	16	des;fleurs;rares	2;4;1;2;1;3;4					s05p1d16.mp3
+1	5	Pratiquer	5	1	une;épaisse;couche;neigeuse	2;2;3;2;4;1;1;1;3;2;2					s05p2d01.mp3
+1	5	Pratiquer	5	2	leur;deuxième;voiture;automatique	2;2;3;2;5;1;1;1;3;2;5					s05p2d02.mp3
+1	5	Pratiquer	5	3	une;mauvaise;odeur;tenace	2;2;3;2;4;1;1;1;3;2;5					s05p2d03.mp3
+1	5	Pratiquer	5	4	des;bières;belges;délicieuses	2;4;1;2;1;3;4;5;3;4;2					s05p2d04.mp3
+1	5	Pratiquer	5	5	un;autre;appel;téléphonique	2;1;3;1;5;1;1;1;3;1;5					s05p2d05.mp3
+1	5	Pratiquer	5	6	une;musique;douce;apaisante	2;2;1;1;1;3;2;2;3;2;1					s05p2d06.mp3
+1	5	Pratiquer	5	7	de;grands;oiseaux;migrateurs	2;3;3;3;1;1;2;2;3;3;1					s05p2d07.mp3
+1	5	Pratiquer	5	8	un;jeune;loup;redoutable	2;1;3;1;5;1;1;1;3;1;5					s05p2d08.mp3
+1	5	Pratiquer	5	9	plusieurs;grosses;pommes;véreuses	2;4;3;4;4;1;2;1;3;4;2					s05p2d09.mp3
+1	5	Pratiquer	5	10	de;nouveaux;portails;blancs	2;3;3;3;3;1;2;1;3;3;1					s05p2d10.mp3
+1	5	Découvrir	6	1	des;yeux;marron	2;3;1;2;2;3;3					s06p1d01.mp3
+1	5	Découvrir	6	2	un;œil;marron	2;1;1;1;2;3;1					s06p1d02.mp3
+1	5	Découvrir	6	3	une;pochette;marron	2;2;1;1;1;3;2					s06p1d03.mp3
+1	5	Découvrir	6	4	des;pochettes;marron	2;4;1;2;1;3;4					s06p1d04.mp3
+1	5	Découvrir	6	5	un;sac;kaki	2;1;1;1;1;3;1					s06p1d05.mp3
+1	5	Découvrir	6	6	une;veste;kaki	2;2;1;1;1;3;2					s06p1d06.mp3
+1	5	Découvrir	6	7	des;vestes;kaki	2;4;1;2;1;3;4					s06p1d07.mp3
+1	5	Découvrir	6	8	des;sacs;kaki	2;3;1;2;1;3;3					s06p1d08.mp3
+1	5	Découvrir	6	9	un;mur;brique	2;1;1;1;1;3;1					s06p1d09.mp3
+1	5	Découvrir	6	10	une;chemise;brique	2;2;1;1;1;3;2					s06p1d10.mp3
+1	5	Découvrir	6	11	des;murs;brique	2;3;1;2;1;3;3					s06p1d11.mp3
+1	5	Découvrir	6	12	des;chemises;brique	2;4;1;2;1;3;4					s06p1d12.mp3
+1	5	Découvrir	6	13	un;feutre;orange	2;1;1;1;1;3;1					s06p1d13.mp3
+1	5	Découvrir	6	14	une;courge;orange	2;2;1;1;1;3;2					s06p1d14.mp3
+1	5	Découvrir	6	15	des;courges;orange	2;4;1;2;1;3;4					s06p1d15.mp3
+1	5	Découvrir	6	16	des;feutres;orange	2;3;1;2;1;3;3					s06p1d16.mp3
+1	5	Pratiquer	6	1	de;nouveaux;emplois;précaires	2;3;3;3;3;1;2;1;3;3;5					s06p2d01.mp3
+1	5	Pratiquer	6	2	un;haut;mur;mitoyen	2;1;3;1;1;1;1;1;3;1;1					s06p2d02.mp3
+1	5	Pratiquer	6	3	nos;gentils;voisins;bavards	2;3;3;3;1;1;2;1;3;3;1					s06p2d03.mp3
+1	5	Pratiquer	6	4	un;nouvel;accident;grave	2;1;3;1;3;1;1;1;3;1;5					s06p2d04.mp3
+1	5	Pratiquer	6	5	des;journaux;économiques;quotidiens	2;3;1;2;6;3;3;5;3;3;1					s06p2d05.mp3
+1	5	Pratiquer	6	6	de;terribles;maux;abdominaux	2;3;3;3;5;1;2;6;3;3;3					s06p2d06.mp3
+1	5	Pratiquer	6	7	une;politique;familiale;courageuse	2;2;1;1;1;3;2;3;3;2;2					s06p2d07.mp3
+1	5	Pratiquer	6	8	quelques;spectacles;musicaux;formidables	2;3;1;2;1;3;3;3;3;3;5					s06p2d08mp3
+1	5	Pratiquer	6	9	de;vieilles;portes;marron	2;4;3;4;2;1;2;1;3;4;6					s06p2d09.mp3
+1	5	Pratiquer	6	10	deux;nouveaux;signaux;routiers	2;3;3;3;3;1;2;6;3;3;1					s06p2d10.mp3
+1	6	Démo	0	1	une;histoire;drôle;,;courte;et;intelligente			récit;2	un;récit;drôle;,;court;et;intelligent		
+1	6	Classique	1	1	une;femme;libre;jeune;et;amoureuse			homme;2	un;homme;libre;jeune;et;amoureux		
+1	6	Classique	1	2	un;homme;libre;jeune;et;amoureux			libres;3 	des;hommes;libres;jeunes;et;amoureux		
+1	6	Classique	1	3	des;hommes;libres;jeunes;et;amoureux			femmes;2	des;femmes;libres;jeunes;et;amoureuses		
+1	6	Classique	1	4	une;pâte;sèche;dure;et;jaune			savon;2	un;savon;sec;dur;et;jaune		
+1	6	Classique	1	5	un;savon;sec;dur;et;jaune			pâtes;2	des;pâtes;sèches;dures;et;jaunes		
+1	6	Classique	1	6	des;pâtes;sèches;dures;et;jaunes			savons;2	des;savons;secs;durs;et;jaunes		
+1	6	Classique	1	7	un;ami;franc;dévoué;et;protecteur			amies;2	des;amies;franches;dévouées;et;protectrices		
+1	6	Classique	1	8	des;amies;franches;dévouées;et;protectrices			dévouée;5	une;amie;franche;dévouée;et;protectrice		
+1	6	Classique	1	9	une;amie;franche;dévouée;et;protectrice			amis;2	des;amis;francs;dévoués;et;protecteurs		
+1	6	Classique	1	10	des;métiers;manuels;agréables;et;passionnants			passionnant;7	des;métiers;manuels;agréables;et;passionnants		
+1	6	Classique	1	11	un;métier;manuel;agréable;et;passionnant			activité;2	une;activité;manuelle;agréable;et;passionnante		
+1	6	Classique	1	12	une;activité;manuelle;agréable;et;passionnante			des;1	des;activités;manuelles;agréables;et;passionnantes 		
+1	6	Classique	2	1	un;nouvel;appareil;,;silencieux;et;pratique			installation;3	une;nouvelle;installation;,;silencieuse;et;pratique		
+1	6	Classique	2	2	une;nouvelle;installation;,;silencieuse;et;pratique			de;1	de;nouvelles;installations;,;silencieuses;et;pratiques		
+1	6	Classique	2	3	de;nouvelles;installations;,;silencieuses;et;pratiques			appareils;3	de;nouveaux;appareils;,;silencieux;et;pratiques		
+1	6	Classique	2	4	une;excellente;crêpe;,;légère;et;dorée			d';1	d'excellentes;crêpes;,;légères;et;dorées		
+1	6	Classique	2	5	d'excellentes;crêpes;,;légères;et;dorées			gâteau;3	un;excellent;gâteau;,;léger;et;doré		
+1	6	Classique	2	6	un;excellent;gâteau;,;léger;et;doré			d';1	d'excellents;gâteaux;,;légers;et;dorés		
+1	6	Classique	2	7	une;courte;lettre;,;lisible;et;originale			de;1	de;courtes;lettres;,;lisibles;et;originales		
+1	6	Classique	2	8	de;courtes;lettres;,;lisibles;et;originales			article;3	un;court;article;,;lisible;et;original		
+1	6	Classique	2	9	un;court;article;,;lisible;et;original			de;1	de;courts;articles;,;lisibles;et;originaux		
+1	6	Classique	2	10	de;nouveaux;maillots;,;chers;et;affreux			un;1	un;nouveau;maillot;,;cher;et;affreux		
+1	6	Classique	2	11	un;nouveau;maillot;,;cher;et;affreux			robe;3	une;nouvelle;robe;,;chère;et;affreuse		
+1	6	Classique	2	12	une;nouvelle;robe;,;chère;et;affreuse			de;1	de;nouvelles;robes;,;chères;et;affreuses		
+1	6	Classique	3	1	un;grand;nombre;,;ou;positif;ou;négatif			de;1	de;grands;nombres;,;ou;positifs;ou;négatifs		
+1	6	Classique	3	2	de;grands;nombres;,;ou;positifs;ou;négatifs			somme;3	une;grande;somme;,;ou;positive;ou;négative		
+1	6	Classique	3	3	une;grande;somme;,;ou;positive;ou;négative			de;1	de;grandes;sommes;,;ou;positives;ou;négatives		
+1	6	Classique	3	4	un;vernis;intérieur;,;ou;brillant;ou;mat			des;1	des;vernis;intérieurs;,;ou;brillants;ou;mats		
+1	6	Classique	3	5	des;vernis;intérieurs;,;ou;brillants;ou;mats			lasures;2	des;lasures;intérieures;,;ou;brillantes;ou;mates		
+1	6	Classique	3	6	des;lasures;intérieures;,;ou;brillantes;ou;mates			mate;8	une;lasure;intérieure;,;ou;brillante;ou;mate		
+1	6	Classique	3	7	de;belles;tranches;,;épaisses;mais;grasses			grasse;7	une;belle;tranche;,;épaisse;mais;grasse		
+1	6	Classique	3	8	une;belle;tranche;,;épaisse;mais;grasse			morceau;3	un;beau;morceau;,;épais;mais;gras		
+1	6	Classique	3	9	un;beau;morceau;,;épais;mais;gras			de;1	de;beaux;morceaux;,;épais;mais;gras		
+1	6	Classique	3	10	un;gars;poli;,;ni;jeune;ni;vieux			jeunes;6	des;gars;polis;,;ni;jeunes;ni;vieux		
+1	6	Classique	3	11	des;gars;polis;,;ni;jeunes;ni;vieux			personnes;2	des;personnes;polies;,;ni;jeunes;ni;vieilles		
+1	6	Classique	3	12	des;personnes;polies;,;ni;jeunes;ni;vieilles			vieille;8	une;personne;polie;,;ni;jeune;ni;vieille		
+1	6	Classique	4	1	une;très;longue;veste;,;marron;et;verte			manteau;4	un;très;long;manteau;,;marron;et;vert		
+1	6	Classique	4	2	un;très;long;manteau;,;marron;et;vert			de;1	de;très;longs;manteaux;,;marron;et;verts		
+1	6	Classique	4	3	de;très;longs;manteaux;,;marron;et;verts			vestes;4	de;très;longues;vestes;,;marron;et;vertes		
+1	6	Classique	4	4	une;mesure;spéciale;très;dure;mais;ponctuelle			dures;5	des;mesures;spéciales;très;dures;mais;ponctuelles		
+1	6	Classique	4	5	des;mesures;spéciales;très;dures;mais;ponctuelles			régime;2	un;régime;spécial;très;dur;mais;ponctuel		
+1	6	Classique	4	6	un;régime;spécial;très;dur;mais;ponctuel			des;1	des;régimes;spéciaux;très;durs;mais;ponctuels		
+1	6	Classique	4	7	des;musiques;actuelles;,;joyeuses;mais;bruyantes			joyeuse;5	une;musique;actuelle;,;joyeuse;mais;bruyante		
+1	6	Classique	4	8	une;musique;actuelle;,;joyeuse;mais;bruyante			concert;2	un;concert;actuel;,;joyeux;mais;bruyant		
+1	6	Classique	4	9	un;concert;actuel;,;joyeux;mais;bruyant			concerts;2	des;concerts;actuels;,;joyeux;mais;bruyants		
+1	6	Classique	4	10	un;tableau;abstrait;,;insolite;et;bizarre			insolites;5	des;tableaux;abstraits;,;insolites;et;bizarres		
+1	6	Classique	4	11	des;tableaux;abstraits;,;insolites;et;bizarres			toiles;2	des;toiles;abstraites;,;insolites;et;bizarres		
+1	6	Classique	4	12	des;toiles;abstraites;,;insolites;et;bizarres			une;1	une;toile;abstraite;,;insolite;et;bizarre		
+1	6	Classique	5	1	une;bonne;bière;,;mais;trop;sucrée;et;trop;fraîche			de;1	de;bonnes;bières;,;mais;trop;sucrées;et;trop;fraîches		
+1	6	Classique	5	2	de;bonnes;bières;,;mais;trop;sucrées;et;trop;fraîches			vin;3	un;bon;vin;,;mais;trop;sucré;et;trop;frais		
+1	6	Classique	5	3	un;bon;vin;,;mais;trop;sucré;et;trop;frais			de;1	de;bons;vins;,;mais;trop;sucrés;et;trop;frais		
+1	6	Classique	5	4	des;filles;gentilles;,;bricoleuses;et;bosseuses			garçon;2	un;garçon;gentil;,;bricoleur;et;bosseur		
+1	6	Classique	5	5	un;garçon;gentil;,;bricoleur;et;bosseur			bricoleurs;5	des;garçons;gentils;,;bricoleurs;et;bosseurs		
+1	6	Classique	5	6	des;garçons;gentils;,;bricoleurs;et;bosseurs			filles;2	des;filles;gentilles;,;bricoleuses;et;bosseuses		
+1	6	Classique	5	7	un;sirop;antitussif;efficace;mais;amer			des;1	des;sirops;antitussifs;efficaces;mais;amers		
+1	6	Classique	5	8	des;sirops;antitussifs;efficaces;mais;amers			tisanes;2	des;tisanes;antitussives;efficaces;mais;amères		
+1	6	Classique	5	9	des;tisanes;antitussives;efficaces;mais;amères			une;1	une;tisane;antitussive;efficace;mais;amère		
+1	6	Classique	5	10	un;oreiller;doux;,;mou;et;bien;douillet			des;1	des;oreillers;doux;,;mous;et;bien;douillets		
+1	6	Classique	5	11	des;oreillers;doux;,;mous;et;bien;douillets			couette;2	une;couette;douce;,;molle;et;bien;douillette		
+1	6	Classique	5	12	une;couette;douce;,;molle;et;bien;douillette			des;1	des;couettes;douces;,;molles;et;bien;douillettes		
+1	6	Classique	6	1	des;premiers;postes;très;pénibles;et;dangereux			premier;2	un;premier;poste;très;pénible;et;dangereux		
+1	6	Classique	6	2	un;premier;poste;très;pénible;et;dangereux			tâche;3	une;première;tâche;très;pénible;et;dangereuse		
+1	6	Classique	6	3	une;première;tâche;très;pénible;et;dangereuse			des;1	des;premières;tâches;très;pénibles;et;dangereuses		
+1	6	Classique	6	4	un;appartement;assez;vaste;et;fonctionnel,;mais;cher			vastes;4	des;appartements;assez;vastes;et;fonctionnels,;mais;chers		
+1	6	Classique	6	5	des;appartements;assez;vastes;et;fonctionnels,;mais;chers			maison;2	une;maison;assez;vaste;et;fonctionnelle,;mais;chère		
+1	6	Classique	6	6	une;maison;assez;vaste;et;fonctionnelle,;mais;chère			des;1	des;maisons;assez;vastes;et;fonctionnelles,;mais;chères		
+1	6	Classique	6	7	un;monde;imaginaire,;lointain;et;totalement;irréel			région;2	une;région;imaginaire,;lointaine;et;totalement;irréelle		
+1	6	Classique	6	8	une;région;imaginaire,;lointaine;et;totalement;irréelle			lointaines;5	des;régions;imaginaires,;lointaines;et;totalement;irréelles		
+1	6	Classique	6	9	des;régions;imaginaires,;lointaines;et;totalement;irréelles			mondes;2	des;mondes;imaginaires,;lointains;et;totalement;irréels		
+1	6	Classique	6	10	un;ordinateur;neuf;et;récent,;mais;déjà;obsolète			tablette;2	une;tablette;neuve;et;récente,;mais;déjà;obsolète		
+1	6	Classique	6	11	une;tablette;neuve;et;récente,;mais;déjà;obsolète			des;1	des;tablettes;neuves;et;récentes,;mais;déjà;obsolètes		
+1	6	Classique	6	12	des;tablettes;neuves;et;récentes,;mais;déjà;obsolètes			ordinateurs;2	des;ordinateurs;neufs;et;récents,;mais;déjà;obsolètes		
+1	7	Test	A	1	tes;nouvelles;vidéos					1	
+1	7	Test	A	2	ma;nouvelle;adresses					0	
+1	7	Test	A	3	des;œuf;frais					0	
+1	7	Test	A	4	son;nouvel;ordinateur					1	
+1	7	Test	A	5	une;soupe;froide					1	
+1	7	Test	A	6	des;gens;très;riches					1	
+1	7	Test	A	7	des;films;assez;triste					0	
+1	7	Test	A	8	quelques;menus;très;économiques					1	
+1	7	Test	A	9	des;appels;trop;brefs					1	
+1	7	Test	A	10	des;leçons;trop;brève					0	
+1	7	Test	A	11	une;veste;blanche;et;noir					0	
+1	7	Test	A	12	une;eau;propre;,;claire;et;froide					1	
+1	7	Test	A	13	un;café;noir;,;chaud;et;sucrés					0	
+1	7	Test	A	14	la;population;mondiale;jeune;et;active					1	
+1	7	Test	A	15	les;cinq;grands;ports;maritime;français					0	
+1	7	Test	A	16	les;deux;autre;maisons;mitoyennes					0	
+1	7	Test	A	17	de;petits;exercices;courts;mais;difficiles					1	
+1	7	Test	A	18	des;gestes;précis;,;habituels;et;machinals					0	
+1	7	Test	A	19	de;nombreux;villes;chinoises;,;polluées;et;surpeuplées					0	
+1	7	Test	A	20	des;bruits;insolites;,;secs;et;répétitifs					1	
+1	7	Test	A	21	des;outils;pratiques;,;car;solides;et;maniables					1	
+1	7	Test	A	22	des;pinceaux;professionnels;,;plats;,;ronds;ou;fin					0	
+1	7	Test	A	23	un;vieux;puits;large;,;sombre;et;profond					1	
+1	7	Test	A	24	des;gaz;toxiques;et;inodore;,;donc;dangereux					0	
+1	7	Test	A	25	deux;gros;poulets;fermiers;bios					1	
+1	7	Test	A	26	des;affiches;publicitaires;colorées;et;rigolote					0	
+1	7	Test	A	27	de;hautes;vagues;,;puissantes;et;dangereuse					0	
+1	7	Test	A	28	de;superbes;toiles;multicolores;ou;unies					1	
+1	7	Test	A	29	un;nouveau;système;informatique;encore;cher					1	
+1	7	Test	A	30	une;tablette;numérique;vraiment;très;cher					0	
+1	7	Test	A	31	des;enfants;intelligents;et;curieux;,;mais;agités					1	
+1	7	Test	A	32	une;gamine;intelligente;et;curieuse;,;mais;agité					0	
+1	7	Test	A	33	de;nombreuses;dépenses;inutiles;et;superflues					1	
+1	7	Test	A	34	des;erreurs;bancaires;fréquentes;,;importantes;et;difficilement;repérable					0	
+1	7	Test	A	35	d’anciens;écrans;plats;,;carrés;ou;rectangulaires					1	
+1	7	Test	A	36	des;locaux;professionnels;lumineux;et;très;modernes					1	
+1	7	Test	A	37	d'anciennes;affiches;déchirées;,;carrés;ou;rectangulaires					0	
+1	7	Test	A	38	de;jeunes;apprentis;nerveux;,;encore;trop;débutants;et;inexpérimentés					1	
+1	7	Test	A	39	des;notices;gratuites;souvent;illisible;car;souvent;mal;traduites					0	
+1	7	Test	A	40	des;déchets;radioactifs;très;nocifs;et;trop;encombrant					0	
+1	7	Test	B	1	des;puces;électronique					0	
+1	7	Test	B	2	de;nouveaux;pneus					1	
+1	7	Test	B	3	le;dernière;étage					0	
+1	7	Test	B	4	deux;boites;vides					1	
+1	7	Test	B	5	des;rêves;étrange					0	
+1	7	Test	B	6	des;alcools;très;forts					1	
+1	7	Test	B	7	des;métaux;assez;dur					0	
+1	7	Test	B	8	deux;petits;lit;bas;superposés					0	
+1	7	Test	B	9	plusieurs;véhicules;utilitaires					1	
+1	7	Test	B	10	des;tiges;métalliques;souples;et;résistantes					1	
+1	7	Test	B	11	une;boisson;gazeuses;sucrées					0	
+1	7	Test	B	12	des;crèmes;hydratante;souvent;trop;grasse					0	
+1	7	Test	B	13	des;fromages;corses;secs;,;cendrés;et;aigres					1	
+1	7	Test	B	14	une;maladie;contagieuses;mais;bénignes					0	
+1	7	Test	B	15	une;fumée;noire;désagréable;,;mais;inodore					1	
+1	7	Test	B	16	un;immense;jardin;très;fleuri;et;bien;aménagée					0	
+1	7	Test	B	17	des;travaux;fatigants;,;chers;et;inutile					0	
+1	7	Test	B	18	des;murs;mitoyens;,;hauts;et;épais					1	
+1	7	Test	B	19	des;fruits;trop;petits,;verts;et;véreux					1	
+1	7	Test	B	20	des;moteurs;électriques,;puissant;et;économique					0	
+1	7	Test	B	21	des;rues;piétonnes,;étroites;et;animés					0	
+1	7	Test	B	22	de;nombreux;rendez-vous;manqués;ou;annulés					1	
+1	7	Test	B	23	un;régime;végétarien;sévère;mais;équilibrée					0	
+1	7	Test	B	24	une;randonnée;pédestre;courte;mais;épuisante					1	
+1	7	Test	B	25	des;thés;amers,;légers;et;délicats					1	
+1	7	Test	B	26	les;premier;beaux;jours					0	
+1	7	Test	B	27	un;vieux;tapis;poussiéreux;et;troué					1	
+1	7	Test	B	28	de;multiples;insectes;diurnes;ou;nocturnes					1	
+1	7	Test	B	29	des;courses;cyclistes;traditionnelles;et;locales					1	
+1	7	Test	B	30	des;animaux;sauvages;blessés;et;agressif					0	
+1	7	Test	B	31	des;toilettes;sèches;écologiques					1	
+1	7	Test	B	32	des;états;solides,;liquides;ou;gazeux					1	
+1	7	Test	B	33	un;courant;électrique,;alternatif;ou;continus					0	
+1	7	Test	B	34	des;mains;toujours;sale,;poisseuse;et;collante					0	
+1	7	Test	B	35	des;cris;stridents;difficilement;supportable					0	
+1	7	Test	B	36	des;murmures;continus;et;presque;inaudibles					1	
+1	7	Test	B	37	une;ordonnance;médicale;non;valide;car;illisible					1	
+1	7	Test	B	38	des;oliviers;centenaires,;certes;vieux;mais;encore;robuste					0	
+1	7	Test	B	39	des;recettes;culinaires;toujours;faciles;et;délicieux					0	
+1	7	Test	B	40	une;vraie;salade;niçoise;et;une;omelette;baveuse;savoureuse					1	

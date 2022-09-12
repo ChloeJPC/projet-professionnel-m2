@@ -1,0 +1,131 @@
+MODULE	SOUS_MODULE	Type	Exercice	Série	Données	Placement réponse	Réponse	Placement 1	Placement 2	Fichier Audio	Audio A	Audio B	Audio C
+6	1	Classique	1	1	acheter;acheté;achetée;achetés;achetées								
+6	1	Classique	1	1	cueillir;cueilli;cueillie;cueillis;cueillies								
+6	1	Classique	1	1	avoir;eu;eue;eus;eues								
+6	1	Classique	1	1	conduire;conduit;conduite;conduits;conduites								
+6	1	Classique	1	1	mettre;mis;mise;mis;mises								
+6	1	Classique	1	1	inclure;inclus;incluse;inclus;incluses								
+6	1	Classique	1	1	ouvrir;ouvert;ouverte;ouverts;ouvertes								
+6	1	Classique	1	1	faire;fait;faite;faits;faites								
+6	1	Classique	1	1	craindre;craint;crainte;craints;craintes								
+6	1	Classique	1	1	peindre;peint-peinte;peints;peintes								
+6	1	Classique	1	1	joindre;joint;jointe;joints;jointes								
+6	1	Classique	1	1	entrer;entré;entrée;entrés;entrées								
+6	2	Classique	1	1	vivait	2				s01d01.mp3			
+6	2	Classique	1	1	habitait	2				s01d02.mp3			
+6	2	Classique	1	1	a;vécu	3;4				s01d03.mp3			
+6	2	Classique	1	1	a;habité	3;4				s01d04.mp3			
+6	2	Classique	1	1	va;vivre	2;1				s01d05.mp3			
+6	2	Classique	1	1	va;habiter	2;1				s01d06.mp3			
+6	2	Classique	1	2	finissent	2				s01d07.mp3			
+6	2	Classique	1	2	terminent	2				s01d08.mp3			
+6	2	Classique	1	2	ont;fini	3;4				s01d09.mp3			
+6	2	Classique	1	2	ont;terminé	3;4				s01d10.mp3			
+6	2	Classique	1	2	vont;finir	2;1				s01d11.mp3			
+6	2	Classique	1	2	vont;terminer	2;1				s01d12.mp3			
+6	2	Classique	1	3	couvriront	2				s01d13.mp3			
+6	2	Classique	1	3	protégera	2				s01d14.mp3			
+6	2	Classique	1	3	avaient;couvert	3;4				s01d15.mp3			
+6	2	Classique	1	3	avait;protégé	3;4				s01d16.mp3			
+6	2	Classique	1	3	doivent;couvrir	2;1				s01d17.mp3			
+6	2	Classique	1	3	doit;protéger	2;1				s01d18.mp3			
+6	3	Classique	1	1	Elles;/ont/;/monté/;le;stand;hier;.	[6,8,2];[7,1,6];[7,1,1]				s01d01.mp3			
+6	3	Classique	1	2	Il;/a/;/monté/;une;entreprise;.	[6,3,1];[7,1,3];[7,1,1]				s01d02.mp3			
+6	3	Classique	1	3	Elle;/a/;/monté/;seule;son;association;.	[6,3,2];[7,1,3];[7,1,1]				s01d03.mp3			
+6	3	Classique	1	4	Nous;/avons/;/monté/;un;nouveau;projet;.	[6,6,1];[7,1,4];[7,1,1]				s01d04.mp3			
+6	3	Classique	1	5	Tu;/as/;/monté/;ce;projet;rapidement;!	[6,2,2];[7,1,2];[7,1,1]				s01d05.mp3			
+6	3	Classique	1	6	J';/ai/;/monté/;une;pièce;de;théâtre;.	[6,1,2];[7,1,1];[7,1,1]				s01d06.mp3			
+6	3	Classique	1	7	Elles;/sont/;/montées/;à;pied;.	[6,8,2];[7,2,6];[7,5,1]				s01d07.mp3			
+6	3	Classique	1	8	Ils;/sont/;/montés/;au;deuxième;étage;.	[6,8,1];[7,2,6];[7,4,1]				s01d08.mp3			
+6	3	Classique	1	9	Elle;/est/;/montée/;la;première;.	[6,3,2];[7,2,3];[7,3,1]				s01d09.mp3			
+6	3	Classique	1	10	Je;/suis/;/montée/;à;sept;heures;.	[6,1,2];[7,2,1];[7,3,1]				s01d10.mp3			
+6	3	Classique	1	11	Vous;/êtes/;/montés/;trop;vite;.	[6,7,1];[7,2,5];[7,4,1]				s01d11.mp3			
+6	3	Classique	1	12	On;/est/;/monté/;aussi;vite;que;possible;.	[6,3,3];[7,2,3];[7,2,1]				s01d12.mp3			
+6	4	Classique	1	1	Elle;/a/;/racheté/[les;locaux]et[les];/a/;/modernisés/;.			[6,3,2];[7,1,3];[7,1,1]	[6,3,2];[6,8,4];[7,1,3];[7,3,1]		s01d01A.mp3	s01d01B.mp3	
+6	4	Classique	1	2	J';/ai/;/découvert/[une;nouvelle;équipe]je[l']/ai/;immédiatement;/appréciée/;.			[6,1,1];[7,1,1];[7,1,10]	[6,1,1];[6,3,5];[7,1,1];[7,2,1]		s01d02A.mp3	s01d02B.mp3	
+6	4	Classique	1	3	Ils;/ont/;d';abord;/déplacé/[la;réunion]",puis[l']/ont/;finalement;/annulée/;.			[6,8,1];[7,1,6];[7,1,1]	[6,8,1];[6,3,5];[7,1,6];[7,2,1]		s01d03A.mp3	s01d03B.mp3	
+6	4	Classique	1	4	Nous;/avons/;/installé/[les;machines];hier",et[les];/avons/;aussitôt;/mises/;en;service;.			[6,6,2];[7,1,4];[7,1,1]	[6,6,2];[6,8,5];[7,1,4];[7,4,5]		s01d04A.mp3	s01d04B.mp3	
+6	4	Classique	1	5	Théo;/a/;/reçu/[de;nouveaux;produits]",et[les];/a/;/testés/;le;jour;même;.			[6,3,1];[7,1,3];[7,1,2]	[6,3,1];[6,8,4];[7,1,3];[7,3,1]		s01d05A.mp3	s01d05B.mp3	
+6	4	Classique	1	6	J';/ai/;/traduit/[les;documents];,;et;je[les];/ai/;/transmis/;aux;managers;.			[6,1,2];[7,1,1];[7,1,4]	[6,1,2];[6,8,4];[7,1,1];[7,3,5]		s01d06A.mp3	s01d06B.mp3	
+6	4	Classique	1	7	Laura;/a/;/vu/[ses;erreurs];,;et[les];/a/;/corrigées/;.			[6,3,2];[7,1,3];[7,1,2]	[6,3,2];[6,8,5];[7,1,3];[7,4,1]		s01d07A.mp3	s01d07B.mp3	
+6	4	Classique	1	8	J';/ai/;/eu/[une;opportunité]je[l']/ai/;/saisie/;.			[6,1,1];[7,1,1];[7,1,2]	[6,1,1];[6,3,5];[7,1,1];[7,2,3]		s01d08A.mp3	s01d08B.mp3	
+6	5	Classique	1	1	Rémi;/a/;/admis/;[les;erreurs];{qu'}il;/a/;/commises/;.	[6,3,1];[7,1,3];[7,1,5];[6,3,1];[6,9,5];[7,1,3];[7,4,5]					s01d01A.mp3	s01d01B.mp3	s01d01C.mp3
+6	5	Classique	1	2	On;/a/;/investi/;[les;locaux];{que};les;précédents;locataires;/ont/;/quittés/;.	[6,3,3];[7,1,3];[7,1,3];[6,8,1];[6,9,4];[7,1,6];[7,3,1]					s01d02A.mp3	s01d02B.mp3	s01d02C.mp3
+6	5	Classique	1	3	Ils;/ont/;longuement;/justifié/;[les;actions];{qu'}ils;/ont/;/menées/;.	[6,8,1];[7,1,6];[7,1,1];[6,8,1];[6,9,5];[7,1,6];[7,4,1]					s01d03A.mp3	s01d03B.mp3	s01d03C.mp3
+6	5	Classique	1	4	Les;visiteurs;/ont/;/aimé/;[les;tableaux];{que};la;galerie;/a/;/exposés/;.	[6,8,1];[7,1,6];[7,1,1];[6,3,2];[6,9,4];[7,1,3];[7,3,1]					s01d04A.mp3	s01d04B.mp3	s01d04C.mp3
+6	5	Classique	1	5	Chloé;/a/;/répondu/;à;[toutes;les;candidatures];{qu'}on;lui;/a/;/adressées/;.	[6,3,2];[7,1,3];[7,1,2];[6,3,3];[6,9,5];[7,1,3];[7,4,1]					s01d05A.mp3	s01d05B.mp3	s01d05C.mp3
+6	5	Classique	1	6	/Avez/-vous;/dépensé/;[les;crédits];{qu'};on;vous;/a/;/alloués/?	[6,7,2];[7,1,5];[7,1,1];[6,3,3];[6,9,4];[7,1,3];[7,3,1]					s01d06A.mp3	s01d06B.mp3	s01d06C.mp3
+6	5	Classique	1	7	Il;/a/;/découvert/;[les;informations];{qu'}on;/a/;/cachées/;.	[6,3,1];[7,1,3];[7,1,10];[6,3,3];[6,9,5];[7,1,3];[7,4,1]					s01d07A.mp3	s01d07B.mp3	s01d07C.mp3
+6	5	Classique	1	8	Il;/a/;/réalisé/;[un;reportage];{qu'}il;/a/;/transmis/;au;journal;.	[6,3,1];[7,1,3];[7,1,1];[6,3,1];[6,4,4];[7,1,3];[7,1,5]					s01d08A.mp3	s01d08B.mp3	s01d08C.mp3
+6	6	Classique	1	1	Chers;copropriétaires,;chers;locataires,								
+6	6	Classique	1	1	Le;syndic;/a/;/choisi/;d'/effectuer/;des;travaux;dans;votre;immeuble;cette;année;.;Comme;vous;l'/avez/;/constaté/,;la;première;phase;des;travaux;/a/;/débuté/;en;janvier;.;Elle;/a/;/permis/;de;mettre;en;conformité;les;parties;communes;de;l'immeuble;.;Nous;/avons/;/fait/;/changer/;l'escalier;et;/avons/;/fait/;/installer/;une;rampe;d'accès;pour;les;personnes;à;mobilité;réduite;.;Ces;travaux;de;grande;envergure;/ont/;/nécessité/;la;condamnation;des;entrées;de;l'immeuble;.;Nous;/adressons/;nos;excuses;à;ceux;d'entre;vous;qui;n'/avaient/;pas;/été/;/prévenus/;des;travaux;et;qui;n'/ont/;/pu/;/rentrer/;chez;eux;pendant;quelques;jours;.								
+6	6	Classique	1	1	Les;travaux;d'embellissement,;que;nous;/avons/;/votés/;en;conseil;syndical,;/commenceront/;bientôt;.;Nous;/avons/;/prévu/;la;réfection;des;façades;en;vert;avec;des;rayures;jaunes;.;L'artisan;chargé;des;travaux;/a/;/proposé/;de;peindre;des;rayures;verticales,;plus;modernes;que;les;rayures;horizontales;.\								
+6	6	Classique	1	1	Nous;/avons/;bien;/enregistré/;les;nombreuses;réclamations;sur;les;pannes;régulières;de;l'ascenseur;.;Nous;/avons/;cependant;/estimé/;qu'il;ne;s'/agissait/;pas;d'une;priorité;pour;le;bien-être;des;locataires;.\								
+6	6	Classique	1	1	Nous;espérons;que;ces;aménagements;embelliront;votre;quotidien;.								
+6	6	Classique	1	1	Le;syndic;.								
+6	6	Classique	1	1	a;choisi	[2,1,9];[3,1,5]				s01d01.mp3			
+6	6	Classique	1	1	effectuer	[0,1,1]				s01d02.mp3			
+6	6	Classique	1	1	avez;constaté	[2,1,11];[3,1,1]				s01d03.mp3			
+6	6	Classique	1	1	a;débuté	[2,1,9];[3,1,1]				s01d04.mp3			
+6	6	Classique	1	1	a;permis	[2,1,9];[3,1,7]				s01d05.mp3			
+6	6	Classique	1	1	avons;fait;changer	[2,1,10];[3,1,11];[0,1,1]				s01d06.mp3			
+6	6	Classique	1	1	avons;fait;installer	[2,1,10];[3,1,11];[0,1,1]				s01d07.mp3			
+6	6	Classique	1	1	ont;nécessité	[2,1,12];[3,1,1]				s01d08.mp3			
+6	6	Classique	1	1	adressons	[1,2,4]				s01d09.mp3			
+6	6	Classique	1	1	avaient;été;prévenus	[2,1,6];[3,1,16];[3,3,2]				s01d10.mp3			
+6	6	Classique	1	1	ont;pu;rentrer	[2,1,12];[3,1,2];[0,1,1]				s01d11.mp3			
+6	6	Classique	1	1	avons;votés	[2,1,10];[3,3,1]				s01d12.mp3			
+6	6	Classique	1	1	commenceront	[1,11,6]				s01d13.mp3			
+6	6	Classique	1	1	avons;prévu	[2,1,10];[3,1,2]				s01d14.mp3			
+6	6	Classique	1	1	a;proposé	[2,1,9];[3,1,1]				s01d15.mp3			
+6	6	Classique	1	1	avons;enregistré	[2,1,10];[3,1,1]				s01d16.mp3			
+6	6	Classique	1	1	avons;estimé	[2,1,10];[3,1,1]				s01d17.mp3			
+6	6	Classique	1	1	agissait	[1,1,3]				s01d18.mp3			
+6	7	Se tester	1	1	Les;canadiens;ont;ouvert;le;score;grâce;à;un;pénalty;.		1						
+6	7	Se tester	1	2	Julia;a;réceptionné;les;colis;et;les;a;ouverts;.		1						
+6	7	Se tester	1	3	Tu;as;envisagé;une;autre;solution;?		1						
+6	7	Se tester	1	4	Les;fournitures;qu'elle;a;achetées;ne;sont;pas;encore;arrivées;.		1						
+6	7	Se tester	1	5	Je;préfère;arriver;en;avance;.		1						
+6	7	Se tester	1	6	Nous;avons;entendu;votre;demande;.		1						
+6	7	Se tester	1	7	Julia;a;démenti;la;rumeur;.		1						
+6	7	Se tester	1	8	Ils;ont;suspendu;les;négociations;pendant;deux;mois;puis;les;ont;reprises;.		1						
+6	7	Se tester	1	9	Elle;a;enfreint;le;règlement;plusieurs;fois;.		1						
+6	7	Se tester	1	10	Nous;souhaitons;nous;présenter;aux;élections;des;représentants;du;personnel;.		1						
+6	7	Se tester	1	11	On;a;tenté;de;chiffrer;les;dégâts;le;plus;précisément;possible;.		1						
+6	7	Se tester	1	12	Ici;,;les;stagiaires;sont;choyés;par;leurs;maîtres;de;stage;.		1						
+6	7	Se tester	1	13	Syndicats;et;direction;sont;parvenus;à;un;accord;.		1						
+6	7	Se tester	1	14	Louise;s'est;enfermée;dans;son;bureau;pour;travailler;tranquillement;.		1						
+6	7	Se tester	1	15	Les;coordonnées;des;utilisateurs;sont;rentrées;dans;une;base;de;données;.		1						
+6	7	Se tester	1	16	Les;spectateurs;sont;sortis;par;la;porte;de;secours;.		1						
+6	7	Se tester	1	17	Nos;clients;sont;restés;manger;avec;nous;à;midi;.		1						
+6	7	Se tester	1	18	Vous;avez;exagéré;la;situation,;de;notre;point;de;vue;.		1						
+6	7	Se tester	1	19	Où;sont-ils;allés;chercher;ces;informations;?		1						
+6	7	Se tester	1	20	Julia;a;acheter;des;fleurs;pour;son;mari;.		0						
+6	7	Se tester	1	21	La;liste;que;nous;avons;établi;n'est;pas;définitive;.		0						
+6	7	Se tester	1	22	L'inauguration;du;bâtiment;est;prévu;samedi;.		0						
+6	7	Se tester	1	23	Les;juges;avaient;interrogés;une;dizaine;de;témoins;.		0						
+6	7	Se tester	1	24	J'avais;trouvé;une;solution;et;je;l'avais;exposé;au;directeur;.		0						
+6	7	Se tester	1	25	Mehdi;préfère;commandé;ses;livres;sur;Internet;.		0						
+6	7	Se tester	1	26	Elles;veulent;essayé;de;s'en;sortir;seules;.		0						
+6	7	Se tester	1	27	Les;romans;nouveaux;sont;présenté;aux;jurys;en;automne;.		0						
+6	7	Se tester	1	28	J'ai;lu;avec;attention;la;synthèse;que;tu;as;écrit;.		0						
+6	7	Se tester	1	29	Le;tableau;que;j'ai;suspendu;est;tombée;sur;la;tête;d'un;client;.		0						
+6	7	Se tester	1	30	Elle;est;consterné;par;ta;décision;.		0						
+6	7	Se tester	1	31	Louise;est;venu;nous;parler;de;son;projet;.		0						
+6	7	Se tester	1	32	Les;membres;du;conseil;vous;ont;préparez;le;rapport;d'exercice;annuel;.		0						
+6	7	Se tester	1	33	Les;voyages;que;vous;nous;avez;proposés;nous;intéressent;.		1						
+6	7	Se tester	1	34	Nous;contestons;les;pourcentages;que;vous;avez;calculé;.		0						
+6	7	Se tester	1	35	Julia;a;perdue;le;contrôle;de;sa;voiture;.		0						
+6	7	Se tester	1	36	Les;avions;furent;contraint;de;se;dérouter;vers;Marseille;.		0						
+6	7	Se tester	1	37	Les;difficultés;sont;nés;d'une;mauvaise;communication;entre;les;équipes;.		0						
+6	7	Se tester	1	38	Les;travaux;que;la;municipalité;a;promi;de;réaliser;ont;pris;du;retard;.		0						
+6	7	Se tester	1	39	La;présentation;que;vous;avez;fait;est;intéressante;.		0						
+6	7	Se tester	1	40	J'ai;imprimé;les;affiches;et;les;ai;accrochées;dans;l'entrée;.		1						
+6	7	Se tester	1	41	La;société;a;réparti;ses;bénéfices;entre;dirigeants;et;employés;.		1						
+6	7	Se tester	1	42	J'ai;apporté;les;annales;à;Louise;qui;les;a;traduites;.		1						
+6	7	Se tester	1	43	La;stratégie;que;Kevin;a;adopté;semble;être;la;bonne;.		0						
+6	7	Se tester	1	44	Elles;ont;dit;qu'elles;étaient;passé;par;l'arrière;du;bâtiment;.		0						
+6	7	Se tester	1	45	Des;voitures;de;police;ont;circulé;dans;les;rues;toute;la;nuit;.		1						
+6	7	Se tester	1	46	Mehdi;a;appelé;plusieurs;clients;pour;les;invités;à;l'inauguration;du;nouveau;magasin;.		0						
+6	7	Se tester	1	47	Mehdi;va;vous;appelez;demain;matin;.		0						
+6	7	Se tester	1	48	Il;avait;réalisé;des;esquisses;et;nous;les;avait;présentées;.		1						

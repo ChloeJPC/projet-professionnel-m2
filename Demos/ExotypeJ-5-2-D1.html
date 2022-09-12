@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!--Exercice type J (Module 5.2.D1)-->
+<html>
+   <head>
+      <!-- Encodage de la page -->
+      <meta charset="utf-8">
+      <!-- Titre de la page -->
+      <title>Démo exo J (Module 5.2.D1)</title>
+      <meta name="description" content="Démo exo J (Module 5.2.D1)">
+      <!-- Lien vers la feuille de style CSS -->
+      <link rel="stylesheet" href="style1.css">
+      <!-- Icône -->
+      <link rel="icon" type="images/jpg" href="images/banniere.jpg">
+      <!-- Chargement de JQuery et JQuery Mobile-->
+      <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+      <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+   </head>
+   <body>
+       <!--Boutons menu-->
+        <div class="boutons_exos2">
+            <img id="btn_retour">
+            <img id="btn_consigne">
+        </div>
+        <!--Audio player consigne-->
+        <audio hidden controls id="consigneJ" class="playerConsignes"></audio>
+        <!--Div avec l'image de la coche verte de bonne réponse-->
+        <div id="cocheVerte" hidden>
+            <img class="imgRep" id="imgCocheVerte" />
+        </div>
+        <!--Div avec l'image de la croix rouge de mauvaise réponse-->
+        <div id="croixRouge" hidden>
+            <img class="imgRep" id="imgCroixRouge" />
+        </div>     
+        <!--Début des phrases (à gauche) : pronoms + verbes--> 
+        <div id="verbesJ" class="fixedJ">
+            <p id="vbJ1" class="vbJ"></p>
+            <p id="vbJ2" class="vbJ"></p>
+        </div> 
+        <!--Fin des phrases (à droite) -->
+        <div id="txtExoTypeJ"></div>        
+        <!--Div qui affiche la phrase correcte au complet une fois la bonne association effectuée-->
+        <div id="phraseCorrecteJ" hidden></div>   
+        <!-- Liens vers les scripts -->
+        <script src="scripts/general.js"></script>
+        <script src="scripts/demo-J.js"></script>
+   </body>
+</html>

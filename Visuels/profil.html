@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr"> 
+	<head>
+		<!-- Encodage de la page -->
+		<meta charset="utf-8">
+		<!-- Titre de la page -->
+		<title>GrammOrtho – Profil</title>
+		<meta name="description" content="GrammOrtho – Profil">
+		<!-- Lien vers la feuille de style CSS -->
+		<link rel="stylesheet" href="style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+  	</head>
+	<body>   
+		<!-- Icône supérieure -->
+		<link rel="icon" type="images/jpg" href="images/banniere.jpg">
+		<!-- Bannière supérieure -->
+		<img class="banniere" id="banniere1" alt="bannière" src="images/banniere.jpg"> 
+		<p id="bienvenue">Bienvenue, Utilisateur !</p>
+		<div id="btn_menu">
+			<img id="img_profil" alt="bouton profil" src="images/user.png" onclick="window.location.href='profil.html'"> 
+			<img id="img_accueil" alt="bouton accueil" src="images/home.png" onclick="window.location.href='accueil.html'">
+			<img id="img_deconnexion" alt="bouton deconnexion" src="images/exit.png" onclick="window.location.href='pageconnexion.html'">
+		</div>
+		<!--Choix du thème-->
+		<div id="div_theme">
+			<div id="jour" onclick="window.location.href='profil.html'">
+				<input type="radio" name="demo2" class="demo2 demoyes" id="demo2-a" checked>
+				<label for="demo2-a">☀️</label>
+			</div>
+			<div id="nuit" onclick="window.location.href='profil.html?theme=nuit'">
+				<input type="radio" name="demo2" class="demo2 demono" id="demo2-b" >
+				<label for="demo2-b">🌙</label>
+			</div>
+		</div>	
+		<!--Menu du profil-->
+		<div class="menu_profil" id="profil_score">Score</div>
+		<div class="menu_profil" id="profil_mdp">Modifier le mot de passe</div>
+		<div class="menu_profil" id="profil_assistance">Assistance</div>
+
+		
+		<!--Bannière inférieure-->
+		<img class="banniere" id="banniere2" alt="bannière" src="images/banniere.jpg"/>
+	</body>
+	<script>
+		// Appliquer le thème nuit 
+		function twRequeteVariable(sVariable) { // http://www.trucsweb.com/tutoriels/javascript/tw303/
+			// Éliminer le "?"
+			var sReq = window.location.search.substring(1);
+			// Matrice de la requête
+			var aReq = sReq.split("&");
+			// Boucle les variables
+			for (var i=0;i<aReq.length;i++) {
+				// Matrice de la variables / valeur
+				var aVar = aReq[i].split("=");
+				// Retourne la valeur si la variable demandée = la variable de la boucle
+				if(aVar[0] == sVariable){return aVar[1];}
+			}
+			// Aucune variable de trouvée.
+			return(false);
+		};
+		if (twRequeteVariable("theme")=="nuit") {
+			document.body.classList.add("themeNuit");
+			document.getElementById('demo2-b').checked=true;
+			document.getElementById('img_accueil').setAttribute('onclick',"window.location.href='accueil.html?theme=nuit'");
+			document.getElementById('img_profil').setAttribute('onclick',"window.location.href='profil.html?theme=nuit'");
+		};
+	</script>
+</html>

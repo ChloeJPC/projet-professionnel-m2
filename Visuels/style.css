@@ -1,0 +1,307 @@
+/* PROJET GRAMMORTHO */
+
+:root {
+    /* Modules */
+    --coul-mod-1 : #F4E073;
+    --coul-mod-2 : #99E660;
+    --coul-mod-3 : #FF914D;
+    --coul-mod-4 : #CB6CE6;
+    --coul-mod-5 : #00C2CB;
+    --coul-mod-6 : #FF66C4;
+    --coul-mod-7 : #FF5757;
+    --coul-mod-8 : #6B81E8;
+}
+
+body{
+    background-color: #F6EDED;
+	font-family: 'Open Sans', sans-serif;
+    color: #1F1347;
+}
+.themeNuit{
+    background-color:#1F1347;
+}
+
+/* Mise en page bannière */
+.banniere{
+	height: 10vh;
+    width: 100vw;
+	position: fixed;
+	left : 0vw;
+}
+#banniere1{
+	top: 0vw;
+}
+#banniere2 {
+	bottom: 0vw;
+}
+#btn_menu img{
+    height : 8vh;
+    position: fixed;
+    top: 1vh;
+    z-index: 1;
+}
+#img_deconnexion{
+    right: 3vw;
+}
+#img_accueil{
+    right: 10vw;
+}
+#img_profil{
+    right: 17vw;
+}
+
+/* Page de connexion */
+
+#corps {
+	position: fixed;
+	top: 10vh;
+}
+#logoImg img {
+	position: fixed;
+	bottom: 11vh;
+	width: 20vw;
+}
+#uepd{
+    left: 10vw
+}
+#lidilem{
+    right: 10vw;
+}
+h1{ 
+	color : rgb(38, 33, 107); 
+	font-size: 13vw;
+	text-align: center;
+	font-weight: 800;
+}
+h2{ 
+    color : rgb(38, 33, 107); 
+	font-size: 6vw;
+	text-align: center;
+	margin-top: -8vw;
+}
+label{  
+	color: #ffffff; /* gris foncé */
+	font-size: 10vw;  
+	margin-left: 20vw;
+	margin-right: 20vw;
+} 
+.emoticone_input{
+	position: absolute;
+	font-size: 4vh;
+    padding-top: 1vh;
+}
+#login, #pwd{  
+	font-size: 6vw;
+	color : rgb(38, 33, 107);
+	text-decoration : none;
+	border-radius : 10vw;
+	width: 70vw;  
+	height: 15vw;
+	border: 0.5vw solid #545454; /* gris foncé */ 
+	border-radius: 4vw;
+	padding-left: 15vw;
+}  
+#mainForm p {
+	text-align: center;
+}
+#btnlog{
+	background-color:#2C5372;
+	width: 50vw;  
+	height: 18vw;
+	border-radius: 5vw;
+	text-align: center;
+	color: #ffffff;
+	font-weight: 200;
+	font-size: 6vw;
+}
+#mentions{
+	font-size: 15px;
+	position: fixed;
+	left : 5vw;
+	bottom: 5vh;
+	z-index: 1;
+	color: white;
+}
+#conditions{
+	font-size: 15px;
+	position: fixed;
+	right: 5vw;
+	bottom: 5vh;
+	z-index: 1;
+	color: white;
+}
+.cliquables{  
+	font-size: 3vw;
+	text-align: center;
+}
+
+/* Page d'accueil */
+#bienvenue {
+    position: fixed;
+    top: 0vh;
+    left: 5vw;
+    font-size: 7vh;
+    color: white;
+    z-index: 1;
+    margin-top: 0vh;
+}
+#titre{
+    position: fixed;
+    top: 11vh;
+    left: 25vw;
+    height: 20vh;
+    width: 50vw;
+    background-color: #a1ade4;
+    border-radius: 1vw;
+    border : 0.5vw inset rgb(69, 123, 240); 
+    text-align: center;
+    box-shadow: inset 0.1vw 0.2vw 0.4vw grey, 0.2vw 0.2vw 0.1vw grey ;
+}
+#titre_princ{
+    font-size: 7vh;
+    margin-top: 0.5vh;
+    margin-bottom: 0vh;
+    text-decoration: underline;
+	font-weight: bold;
+    line-height: 1;
+}
+#sous_titre{
+    font-size : 5vh;
+    bottom: 1vh;
+}
+.module{
+    position: fixed;
+    height: 16vh;
+    width: 23vw;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0.3vw 0.3vw 0.3vw grey;
+}
+.numMod{
+    font-size: 2.2vw;
+    margin-top: 1vh;
+    margin-bottom: 0vh;
+    text-decoration: underline;
+}
+.nomMod{
+    font-size: 1.7vw;
+    margin-top: 1vh;
+}
+#module1{
+    background-color: var(--coul-mod-1);
+    bottom: 30vh;
+    left : 1vw;
+}
+#module2{
+    background-color: var(--coul-mod-2);
+    bottom: 30vh;
+    left : 26vw;
+}
+#module3{
+    background-color: var(--coul-mod-3);
+    bottom: 30vh;
+    left : 51vw;
+}
+#module4{
+    background-color: var(--coul-mod-4);
+    bottom: 30vh;
+    left : 76vw;
+}
+#module5{
+    background-color: var(--coul-mod-5);
+    bottom: 12vh;
+    left : 1vw;
+}
+#module6{
+    background-color: var(--coul-mod-6);
+    bottom: 12vh;
+    left : 26vw;
+}
+#module7{
+    background-color: var(--coul-mod-7);
+    bottom: 12vh;
+    left : 51vw;
+}
+#module8{
+    background-color: var(--coul-mod-8);
+    bottom: 12vh;
+    left : 76vw;
+}
+#mentions_acc{
+	font-size: 15px;
+	position: fixed;
+	left : 20vw;
+	bottom: 3vh;
+	z-index: 1;
+	color: white;
+}
+#conditions_acc{
+	font-size: 15px;
+	position: fixed;
+	right: 20vw;
+	bottom: 3vh;
+	z-index: 1;
+	color: white;
+}
+
+/*Page de profil*/
+#div_theme{
+    position: fixed;
+    top: 13vh;
+}
+#jour{
+    margin-left: 68vw;
+}
+#nuit{
+    margin-top : 3vh;
+    margin-left: 68vw;
+} 
+input[type="radio"].demo2 {
+    display: none;
+}
+input[type="radio"].demo2 + label {
+    padding: 1vw 1.5vw;
+    font-size: 4vw;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color: #fff;
+    background-color: #6c757d;
+    border: 1px solid transparent;
+    transition: all 0.5s ease-in-out;
+}
+input[type="radio"].demo2.demoyes:checked + label {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+input[type="radio"].demo2.demono:checked + label {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.menu_profil{
+    position: fixed;
+    top: 30vh;
+    background-color: lightgray;
+    border-radius: 20px;
+    box-shadow:  0.8vw 0.8vw 1vw grey;
+    width: 20vw;
+    height: 25vh;
+    text-align: center;
+    line-height: 1.5;
+    padding-top: 5vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+#profil_score{
+    left: 3vw;
+    font-size: 4vw;
+}
+#profil_mdp{
+    left: 31.5vw;
+    font-size: 2.8vw;
+}
+#profil_assistance{
+    left: 60vw;
+    font-size: 4vw;
+
+}
+

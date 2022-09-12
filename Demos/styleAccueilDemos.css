@@ -1,0 +1,75 @@
+/* Page d'accueil des démos */
+
+body { /* par défaut thème jour  */
+	color: black;
+    background-color: lightgrey;
+    font-family: 'Open Sans', sans-serif;
+	line-height: 1.25;
+	text-align: left;
+}
+h1{
+    font-size: 3vw;
+    text-align: center;
+}
+h2{
+    font-size: 2.3vw;
+    text-align: left;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    font-weight: normal;
+}
+#indDemosJour{
+    background-color: #F6EDED;
+    color:#1F1347;
+    column-count: 4;
+    border-radius: 30px;
+    box-shadow: 0 0 0.3em #1F1347;
+    position: fixed;
+    top: 35vh;
+    left: 5vw;
+    height: 37vh;
+    width: 40vw;
+    font-size: 1.8vw;
+    padding-left: 2vw;
+    padding-top: 2vw;
+}
+#jour{
+    font-size: 7vh;
+    position: fixed;
+    bottom: 1vh;
+    left: 22vw;
+}
+#indDemosNuit{
+    background-color: #1F1347;
+    color:#F6EDED;
+    column-count: 4;
+    border-radius: 30px;
+    box-shadow:  inset 0 0 0.9em #F6EDED;
+    position: fixed;
+    top: 35vh;
+    right: 5vw;
+    height: 37vh;
+    width: 40vw;
+    font-size: 1.8vw;
+    padding-left: 2vw;
+    padding-top: 2vw;
+}
+#nuit{
+    font-size: 7vh;
+    position: fixed;
+    bottom: 1vh;
+    right: 22vw;
+}
+.C0{
+    color: grey !important;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+#indDemosJour a {
+    color:#1F1347;
+}
+#indDemosNuit a {
+    color:#F6EDED;
+}

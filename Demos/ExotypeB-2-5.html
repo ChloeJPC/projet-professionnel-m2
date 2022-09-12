@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--Exercice type B (Module 2.5.1) -->
+<html>
+	<head>
+        <!-- Encodage de la page -->
+        <meta charset="utf-8">
+        <!-- Titre de la page -->
+        <title>Démo exo B (Module 2.5.1)</title>
+        <meta name="description" content="Démo exo B (Module 2.5.1)">
+        <!-- Lien vers la feuille de style CSS -->
+        <link rel="stylesheet" href="style1.css">
+        <!-- Icône -->
+        <link rel="icon" type="images/jpg" href="images/banniere.jpg">
+        <!-- Chargement de JQuery -->
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+        <script src="scripts/jquery-3.5.1.min.js"></script>
+    </head>
+    <body>
+        <!--Boutons menu-->
+        <div class="boutons_exos2">
+            <img id="btn_retour">
+            <img id="btn_consigne">
+        </div>
+        <!--Audio player consigne-->
+        <audio hidden controls id="consigneB" class="playerConsignes"></audio>
+        <!--Div avec l'image de la coche verte de bonne réponse-->
+        <div id="cocheVerte" hidden>
+            <img class="imgRep" id="imgCocheVerte"/>
+        </div>
+        <!--Div avec l'image de la croix rouge de mauvaise réponse-->
+        <div id="croixRouge" hidden>
+            <img class="imgRep" id="imgCroixRouge" />
+        </div>
+        <!--Div avec les rectangles colorés des catégories en flexbox-->
+        <div id="ligne3">
+            <p class="categoriesBC tailleCatB" id="detB">
+            <p class="categoriesBC tailleCatB" id="detPrepB">
+            <p class="categoriesBC tailleCatB" id="prepB">
+            <p class="categoriesBC tailleCatB" id="pronB">
+            <p class="categoriesBC tailleCatB" id="nomB">
+        </div>
+        <div id="ligne4">
+            <p class="categoriesBC tailleCatB" id="adjB">
+            <p class="categoriesBC tailleCatB" id="advB">
+            <p class="categoriesBC tailleCatB" id="verbB">
+            <p class="categoriesBC tailleCatB" id="conjCoordB">
+        </div>
+        <!--Texte de l'exercice-->
+        <div id="txtExoTypeB"></div>
+        <!-- Liens vers les scripts -->
+        <script src="scripts/general.js"></script>
+        <script src="scripts/demo-B.js"></script>
+    </body>
+</html> 
