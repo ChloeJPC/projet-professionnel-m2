@@ -8,6 +8,9 @@ Adapter GrammOrtho en une version pour smartphone.
     2. Organisation et documentation des données des exercices  
     3. Modélisation d'une base de données  
 
+## Présentation du projet
+Le fichier _presentation_projet_professionnel.mp4_ contient la présentation vidéo du projet.
+
 ## Détails du Projet
 Le projet est détaillé dans le fichier _Albasini_Choquet_Rapport.pdf_ présent dans la racine du dépôt git / dossier zippé.
 
